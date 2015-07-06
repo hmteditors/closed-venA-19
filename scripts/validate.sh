@@ -5,7 +5,7 @@ if [ "$#" -ne 1 ]; then
 fi
 
 
-echo "Verifying from configuration in /vagrant/2015office3/configs/vm-mom-config.gradle validate"
+echo "Verifying from configuration in /vagrant/venA-19/configs/vm-mom-config.gradle validate"
 
 
 cd /vagrant/hmt-mom
@@ -15,5 +15,5 @@ gradle clean
 
 echo Beginning verification for folio $1
 
-gradle -Pfolio=$1 -Pconf=/vagrant/2015office3/configs/vm-mom-config.gradle validate
+gradle -Pfolio=$1 -Pconf=/vagrant/venA-19/configs/vm-mom-config.gradle validate
 
