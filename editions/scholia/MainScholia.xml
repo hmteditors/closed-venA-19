@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Venetus A Main Scholia</title>
+                <editor>Janey Capers Newland</editor>
+                <editor>Corey Scannell</editor>
+                <editor>Maike van Haeringen</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Venetus A MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="19">
+            <text n="msA">
+                <body>
+                    <div n="2015office3_1" type="scholion">
+                        <div type="lemma">
+                            <p>εὗρε δὲ <persName n="urn:cite:hmt:pers.pers158">πατρόκλῳ</persName> <choice>
+                                    <abbr>πεκειμε</abbr>
+                                    <expan>περικείμενον</expan>
+                                </choice></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.4</p>
+                        </div>
+                        <div type="comment">
+                            <p>τινὲς ἀνέστρεψαν τὴν <q>περι</q>, ἵν ᾖ <q> <choice>
+                                    <abbr>πε</abbr>
+                                    <expan>περὶ</expan>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers158">Πατρόκλῳ</persName> κείμενον </q>
+                                ἐπεὶ καὶ ἐν ἑτέροις ἔφη <q>ἀμφ' αὐτῷ <sic>χύμένῃ</sic></q> τῇ δοτικῇ συντάξας τὴν
+                                πρόθεσιν οὐ τῇ μετοχῇ. ἡμῖν δὲ δοκεῖ ὥσπερ ἐτι καὶ τοῖς πλείοσιν καὶ
+                                τῷ <persName n="urn:cite:hmt:pers.pers485">Ἀσκαλωνίτῃ</persName> ἓν
+                                εἶναι τὸ <q>περικείμενον</q> ἔμφασις γὰρ μείζων νοεῖται ⁑</p>
+                        </div>
+                    </div>
+                    <div n="2015office3_2" type="scholion">
+                        <div type="lemma">
+                            <p>κλαίοντα λιγέωσ,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.5</p>
+                        </div>
+                        <div type="comment">
+                            <p> πάντας τοὺς ήρωας ἁπλότητος χάριν εὐχερῶς ἐπὶ δάκρυα ἄγει. <persName
+                                    n="urn:cite:hmt:pers.pers22">Ἀγαμέμνονα</persName>. <persName
+                                    n="urn:cite:hmt:pers.pers158">Πάτροκλοv</persName>
+                                <persName n="urn:cite:hmt:pers.pers118"> Ὀδυσσέα</persName> ἐφ οὗ
+                                καὶ τὴν παραβολὴν τῆς <sic>χείρας</sic> ἔλαβεν. αἰεὶ δ' ἀριδάκρυες ἄνδρες <choice>
+                                    <sic>ἐσθλοὶ</sic>
+                                    <corr>ἐσθλοί</corr>
+                                </choice>·λιγέως δὲ ὀξέως ἠ ἡδέως <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:15.400</ref><q>μετα γάρ τε καὶ ἄλγεσι τέρπεται
+                                ἀνήρ</q></cit> λιγέως ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="2015office3_3" type="scholion">
+                        <div type="lemma">
+                            <p>μύροντο</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.6</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐθρήνουν ἠ ἐχέοντο. ὅθεν καὶ μῦρον τὸ πρωτον ἐκχυθὲν δάκρυον ἀπο
+                                <persName n="urn:cite:hmt:pers.pers1036">Μύρης</persName> της
+                                μιγείσης τῷ πατρί ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="2015office3_4" type="scholion">
+                        <div type="lemma">
+                            <p>τύνη δ' <persName n="urn:cite:hmt:pers.pers192">Ἡφαίστοιο</persName>
+                                πὰρα,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.10</p>
+                        </div>
+                        <div type="comment">
+                            <p> ἀναστρεπτέον τὴν πρόθεσιν ἔστι γὰρ <q>παρ' <persName
+                                    n="urn:cite:hmt:pers.pers192">Ηφαίστου</persName></q> . τὸ δὲ τύνη
+                                ἀεὶ ἐπι αρσενικοῦ λαμβάνει ὁ ποιητής ⁑</p>
+                        </div>
+                    </div>
+                    <div n="2015office3_5" type="scholion">
+                        <div type="lemma">
+                            <p>μυρμιδόνας δ' ἄρα</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.14</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι <persName n="urn:cite:hmt:pers.pers15"><choice><abbr>Ζηνόδοτ</abbr><expan>Ζηνόδοτος</expan></choice></persName> γράφει <q><sic>ἐλεο</sic> 
+                                φόβος</q> καθ <persName n="urn:cite:hmt:pers.pers17">Ὅμηρον</persName>  δέ ἐστι <q>φόβος</q> ἡ <q>φυγή</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="2015office3_6" type="scholion">
+                        <div type="lemma">
+                            <p>ἄντην εἰσιδέειν·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.15</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἐλέγχεται <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> γράφων <q>ἕλεν φόβος</q> τὸ γὰρ <q>τρέσαι</q> ἀπo τοῦ <q>τρόμου</q> ⁑</p>
+                        </div>
+                    </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

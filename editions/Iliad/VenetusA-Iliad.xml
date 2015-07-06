@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iliad</title>
+        <editor>Maike van Haeringen</editor>
+        <editor>Janey Capers Newland</editor>
+        <editor>Corey Scannell</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from photography of the manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="19">
+        <l n="1"><persName n="urn:cite:hmt:pers.pers286">Ἠὼς</persName> μὲν κροκόπεπλος ἀπ'<persName n="urn:cite:hmt:pers.pers123">Ὠκεανοῖο</persName> ῥοάων</l>
+        <l n="2">ὤρνυθ'. ἵν' ἀθανάτοισι φόως φέροι ἠδὲ βροτοῖσιν·</l>
+        <l n="3"> δ' ἐς νῆας ΐκανε θεοῦ πάρα δῶρα φέρουσα·</l>
+        <l n="4">εὗρε δὲ <persName n="urn:cite:hmt:pers.pers158">Πατρόκλω</persName> περικείμενον. ὃν φίλον υἱὸν,</l>
+        <l n="5">κλαίοντα λιγέως. πολέες δ' ἀμφ' αὐτὸν ἑταῖροι</l>
+        <l n="6">μύρονθ'· ἣ δ' ἐν τοῖσι παρίστατο δῖα θεάων·</l>
+        <l n="7">ἔν τ' άρα οἱ φῦ, χειρὶ, ἔπος τ' ἔφατ' ἔκ τ' ὀνόμαζε·</l>
+        <l n="8">τέκνον ἐμὸν. τοῦτον μὲν ἐάσομεν ἀχνύμενοί περ</l>
+        <l n="9">κεῖσθαι. ἐπει δὴ πρῶτα, θεῶν ἰ̈ότητι δαμάσθη·</l>
+        <l n="10">τύνη δ' <persName n="urn:cite:hmt:pers.pers192">Ἡφαίστοιο</persName> πάρα. κλυτὰ τεύχεα δέξο</l>
+        <l n="11">καλὰ μάλ'. οἷ' οὔ πω τις ἀνὴρ ὤμοισι φόρησεν·</l>
+        <l n="12"> ὡς ἄρα φωνήσασα θεὰ κατα τεύχε' ἔθηκε </l>
+        <l n="13">πρόσθεν <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλῆος</persName>. τὰ δ' ἀνέβραχε δαίδαλα πάντα.</l>
+        <l n="14">Μυρμιδόνας δ' ἄρα πάντας ἕλε τρόμος. οὐδέ τις ἔτλη</l>
+        <l n="15">ἄντην εἰσϊδέειν, ἄλλ' ἔτρεσαν· αὐταρ <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεὺς</persName></l>
+        <l n="16">ὡς εἶδ' ὥς μιν μᾶλλον ἔδυ χόλος, ἐν δέ οἱ ὄσσε</l>
+        <l n="17">δεινὸν ὑπο βλεφάρων ὡς <sic>εὶ</sic> σέλας ἐξεφάανθεν·</l>
+        <l n="18">τέρπετο δ' ἐν χείρεσσιν ἔχων θεοῦ ἀγλαὰ δῶρα.</l>
+        <l n="19">αὐτὰρ ἐπεὶ φρεσὶν ᾗσι τετάρπετο. δαίδαλα λεύσσων.</l>
+        <l n="20">αὐτίκα μητέρα ἣν, ἔπεα πτερόεντα προσηύδα·</l>
+        <l n="21">μῆτερ ἐμὴ. τὰ μὲν ὅπλα θεὸς πόρεν: οἷ' ἐπιεικὲς</l>
+        <l n="22">ἔργ' έμεν ἀθανάτων. μη δὲ βροτὸν ἄνδρα τελέσσαι.</l>
+        <l n="23">νῦν δ' ἤτοι μὲν ἐγὼ θωρήξομαι· ἀλλα μάλ' αἰνῶς</l>
+        <l n="24">δείδω. μή μοι τόφρα <persName n="urn:cite:hmt:pers.pers504">Μενοιτίου</persName> ἄλκιμον υἱὸν</l>
+        <l n="25">μυῖαι καδδῦσαι κατὰ χαλκοτύπους ὠτειλὰς.</l>
+        <l n="126">αὐτίκα δ' εἷλ' <persName n="urn:cite:hmt:pers.pers1035">Ἄτην</persName> κεφαλῆς λιπαροπλοκάμοιο·</l>
+        <l n="127">χωόμενος φρεσὶν ᾗσι· καὶ ὤμοσε κρατερὸν ὅρκον</l>
+        <l n="128">μή <w><unclear>π</unclear>οτ'</w> ἐς <placeName n="urn:cite:hmt:place.place45">Οὔλυμπόν</placeName>  τε καὶ οὐρανὸν ἀστερόεντα</l>
+        <l n="129">αὖτις ἐλεύσεσθ' <persName n="urn:cite:hmt:pers.pers1035">Ἄτην</persName> ἣ πάντας ἀᾶται.</l>
+        <l n="130">ὣς εἰπὼν ἔρριψεν ἀπ' οὐρανοῦ ἀστερόεντος</l>
+        <l n="131">χειρὶ περιστρέψας· τάχα δ' ἵκετο ἔργ' ἀνθρώπων.</l>
+        <l n="132">τὴν αἰεὶ στενάχεσχ' ὅθ' ἑὸν φίλον υἱὸν ὁρῷτο</l>
+        <l n="133">ἔργον ἀεικές ἔχοντα πρὸς <persName n="urn:cite:hmt:pers.pers391">Εὐρυσθῆος</persName>  ἀέθλων</l>
+        <l n="134">ὣς καὶ ἐγὼν ὅτε δ' αὖτε μέγας κορυθαίολος <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName></l>
+        <l n="135"><rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείους</rs> ὤλεσκεν ἐπὶ πρυμνῃσι νέεσσιν</l>
+        <l n="136">οὐ δυνάμην λελαθέσθαι <persName n="urn:cite:hmt:pers.pers1035">Ἄτης</persName> ῇ πρῶτον ἀάσθην</l>
+        <l n="137">ἀλλ' ἐπεὶ ἀασάμην· καί μευ φρένας ἐξείλετο <persName n="urn:cite:hmt:pers.pers8">Ζεύς</persName>,</l>
+        <l n="138">ἂψ ἐθέλω ἀρέσαι· δόμεναί τ' ἀπερείσι' ἄποινα</l>
+        <l n="139">ἀλλ' ὄρσευ πόλεμόν δε καὶ ἄλλους ὄρνιθι λαούς.</l>
+        <l n="140">δῶρα δ' ἐγὼν ὅδε πάντα παρασχεῖν ὅσσα τοι ἐλθών</l>
+        <l n="141">χθιζὸς ἐνὶ κλισίῃσιν ὑπέσχετο δῖος <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεύς</persName>.</l>
+        <l n="142">εἰ δε 'θέλεις ἐπίμεινον ἐπειγόμενός περ <persName n="urn:cite:hmt:pers.pers83">Ἄρηος</persName></l>
+        <l n="143">δῶρα δέ τοι θεράποντες ἐμῆς παρὰ νηὸς ἑλόντες</l>
+        <l n="144">οἴσουσ'. ὄφρα ἴδηαι ὅ, τοι μενοεικέα δώσο·</l>
+        <l n="145">τόν δ' ἀπαμειβόμενος προσέφη πόδας ὠκὺς <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεύς</persName>.</l>
+        <l n="146"><persName n="urn:cite:hmt:pers.pers22">Ἀτρείδη</persName> κυδιστε ἄναξ ἀνδρῶν <persName n="urn:cite:hmt:pers.pers22">Ἀγάμεμνον</persName>·</l>
+        <l n="147">δῶρα μὲν αἴ κ' ἐθέλησθα παρασχέμεν ὡς ἐπιεικές</l>
+        <l n="148">ἤ τ' ἐχέμεν παρὰ σοί: νῦν δὲ μνησώμεθα χάρμης</l>
+        <l n="149">αἶψα μάλ' οὐ γὰρ χρὴ κλοτοπεύειν ἐνθάδ' ἐόντας</l>
+        <l n="150">οὐδὲ διατρίβειν· ἔτι γὰρ μέγα ἔργον ἄρεκτον.</l>
+        <l n="151">ὥς κέ τις αὖτ' <persName n="urn:cite:hmt:pers.pers1">Ἀχιλῆα</persName> μετὰ πρώτοισιν ἴδηται</l>
+      </div>
+    </body>
+  </text>
+</TEI>
