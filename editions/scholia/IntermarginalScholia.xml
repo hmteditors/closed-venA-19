@@ -138,7 +138,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.75</p>
                         </div>
                         <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers16"><choice><abbr>αρισταρχ</abbr><expan>Ἀριστάρχος</expan></choice></persName> ἔξω τοῦ <rs type="waw">ο</rs> <q>ἀπειπόντος</q> καὶ αὶ πλείους</p>
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice><abbr>Αρισταρχ</abbr><expan>Ἀριστάρχος</expan></choice></persName> ἔξω τοῦ <rs type="waw">ο</rs> <q>ἀπειπόντος</q> καὶ αἱ πλείους</p>
                         </div>
                     </div>
                     <!-- 253r -->

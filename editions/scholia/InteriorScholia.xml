@@ -35,7 +35,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.26-19.27</p>
             </div>
             <div type="comment">
-              <p><choice><abbr>τουτ</abbr><expan>τοῦτο</expan></choice> δια μέσου τὸ γὰρ ἑξῆς <q>ἀεικίσσωει δε νεκρόν</q> <choice><abbr>κατ</abbr><expan>κατὰ</expan></choice> δὲ χρόα ⁑</p>
+              <p><choice>
+                  <abbr>τουτ</abbr>
+                  <expan>τοῦτο</expan>
+                </choice> δια μέσου τὸ γὰρ ἑξῆς <q><sic>ἀεικίσσωει</sic> δε νεκρόν</q>
+                <q><choice>
+                    <abbr>κατ</abbr>
+                    <expan>κατὰ</expan>
+                  </choice> δὲ χρόα</q> ⁑</p>
             </div>
           </div>
           <div n="2015office4_2" type="scholion">
@@ -46,7 +53,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.41</p>
             </div>
             <div type="comment">
-              <p>παρα <persName n="urn:cite:hmt:pers.pers85"><choice><abbr>Αριστοφ</abbr><expan>Ἀριστοφάνει</expan></choice></persName>καὶ Ριανῶ  <q>ερίηρας</q></p>
+              <p>παρα <persName n="urn:cite:hmt:pers.pers85"><choice>
+                    <abbr>Αριστοφ</abbr>
+                    <expan>Ἀριστοφάνει</expan>
+                  </choice></persName>καὶ <persName n="urn:cite:hmt:pers.pers85">Ριανῶ</persName> <q>ερίηρας</q></p>
             </div>
           </div>
           <div n="2015office4_3" type="scholion">
@@ -57,7 +67,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.42</p>
             </div>
             <div type="comment">
-              <p>νεῶν αγῶνα τὸ ἄθροισμα τοῦ ναστάθμου ⁑</p>
+              <p>νεῶν αγῶνα τὸ ἄθροισμα τοῦ <sic>ναστάθμου</sic> ⁑</p>
             </div>
           </div>
           <!-- 252v -->
