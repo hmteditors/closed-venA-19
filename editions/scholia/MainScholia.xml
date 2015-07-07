@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!DOCTYPE TEI PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
     <teiHeader>
         <fileDesc>
@@ -13,7 +8,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <editor>Janey Capers Newland</editor>
                 <editor>Corey Scannell</editor>
                 <editor>Maike van Haeringen</editor>
-                <editor>Stephanie Neville</editor>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -380,13 +374,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="2015office9_9" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>θεὸς δια <choice><abbr>παντ</abbr><expan>πάντα</expan></choice> <choice><abbr>τελευτ</abbr><expan>τελευτᾷ</expan></choice></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.90</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p> ὁ μὲν <persName n="urn:cite:hmt:pers.pers485"><choice><abbr>Ἀσκαλωντ</abbr><expan>Ἀσκαλωνίτης</expan></choice></persName> περισσὴν ἡγεῖται τὴν διά <choice><abbr>προθ</abbr><expan>πρόθεσιν</expan></choice> εῖναι τὸ γὰρ εξῆς <q>θεος πάντα τελευτᾶ</q>. <persName n="urn:cite:hmt:pers.pers175">Δίδυμος</persName> δὲ ἡγεῖτο σημαντικὴν αυτὴν εῖναι τοῦ διόλου καὶ μὴ παρέλκειν ὥσπερ ἐπι τοῦ δίηλΐτης ὁ δι ὁλου ἁμαρτάνων οὐ προσεκτεον δὲ τοῖς ὑφ εν ἀνεγνωκῶσιν ⁑    </p>
                         </div>
                     </div>
                     <div n="2015office9_10" type="scholion">
