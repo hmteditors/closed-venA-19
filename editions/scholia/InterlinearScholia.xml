@@ -33,7 +33,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.5</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.5@λιγέως</p>
                         </div>
                         <div type="comment">
                             <p>εμπαθῶς ⁚</p>
@@ -44,7 +44,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.17</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.17@βλεφάρων</p>
                         </div>
                         <div type="comment">
                             <p><rs type="waw">οις</rs></p>
