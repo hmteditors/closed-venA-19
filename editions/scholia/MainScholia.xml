@@ -384,16 +384,16 @@
                         </div>
                     </div>
                        <div n="2015office9_10" type="scholion">
-+                        <div type="lemma">
-+                            <p>βλάπτουσ' <choice><abbr>ἀνους</abbr><expan>ἀνθρώπους·</expan></choice></p>
-+                        </div>
-+                        <div type="ref">
-+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
-+                        </div>
-+                        <div type="comment">
-+                            <p>ἀθετεῖται ὡς περισσὸς καὶ <choice><abbr>κακοσυνθτ</abbr><expan>κακοσύνθετος</expan></choice> τί γὰρ ἄλλο δύναται ποιεῖν ἡ <persName n="urn:cite:hmt:pers.pers1035">Ἄτη</persName> ἢ βλάπτειν οὐχ ὑγιῶς δὲ οὐδὲ τὸ <q>ἕταιον</q> τετακται· ἔδει γὰρ <q>ἄλλον</q>· βιάζονται δέ τινες τὸν <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνονα</persName> λέγειν ἐφ ἑαυτοῦ καὶ τοῦ <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλέως</persName> καθολικος δε ἐστιν ὁ λόγος, κοινότερον γοῦν εἰπὼν ἐπι τὸν ἡγεμονικώτατον <persName n="urn:cite:hmt:pers.pers8">Δία</persName> ἀνῆλθεν καὶ ὅλως παρῴδη ται ἐκ τῶν Λιτῶν  <q>βλάπτουσ' <choice><abbr>ἀνους</abbr><expan>ἀνθρώπους·</expan> </choice></q>αἱ δ' ἐξακέονται οπίσσω ⁑</p>
-+                        </div>
-+                    </div>
+                        <div type="lemma">
+                            <p>βλάπτουσ' <choice><abbr>ἀνους</abbr><expan>ἀνθρώπους·</expan></choice></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀθετεῖται ὡς περισσὸς καὶ <choice><abbr>κακοσυνθτ</abbr><expan>κακοσύνθετος</expan></choice> τί γὰρ ἄλλο δύναται ποιεῖν ἡ <persName n="urn:cite:hmt:pers.pers1035">Ἄτη</persName> ἢ βλάπτειν οὐχ ὑγιῶς δὲ οὐδὲ τὸ <q>ἕταιον</q> τετακται· ἔδει γὰρ <q>ἄλλον</q>· βιάζονται δέ τινες τὸν <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνονα</persName> λέγειν ἐφ ἑαυτοῦ καὶ τοῦ <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλέως</persName> καθολικος δε ἐστιν ὁ λόγος, κοινότερον γοῦν εἰπὼν ἐπι τὸν ἡγεμονικώτατον <persName n="urn:cite:hmt:pers.pers8">Δία</persName> ἀνῆλθεν καὶ ὅλως παρῴδη ται ἐκ τῶν Λιτῶν  <q>βλάπτουσ' <choice><abbr>ἀνους</abbr><expan>ἀνθρώπους·</expan> </choice></q>αἱ δ' ἐξακέονται οπίσσω ⁑</p>
+                        </div>
+                   </div>
                     <div n="2015office9_11" type="scholion">
                         <div type="lemma">
                             <p></p>
