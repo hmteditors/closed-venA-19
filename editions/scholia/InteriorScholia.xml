@@ -56,7 +56,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>παρα <persName n="urn:cite:hmt:pers.pers85"><choice>
                     <abbr>Αριστοφ</abbr>
                     <expan>Ἀριστοφάνει</expan>
-                  </choice></persName>καὶ <persName n="urn:cite:hmt:pers.pers85">Ριανῶ</persName> <q>ερίηρας</q></p>
+                  </choice></persName>καὶ <persName n="urn:cite:hmt:pers.pers85">Ριανῶ</persName>
+                <q>ερίηρας</q></p>
             </div>
           </div>
           <div n="2015office4_3" type="scholion">
@@ -88,10 +89,17 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p/>
             </div>
             <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.X</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.79</p>
             </div>
             <div type="comment">
-              <p/>
+              <p><choice>
+                  <abbr>ουτ</abbr>
+                  <expan>οὕτως</expan>
+                </choice>
+                <persName n="urn:cite:hmt:pers.pers16"><choice>
+                    <abbr>Ἀρίσταρχ</abbr>
+                    <expan>Ἀρίσταρχος</expan>
+                  </choice></persName> ἄλλοι δὲ <q>ἀκουέμεν</q>:</p>
             </div>
           </div>
           <div n="2015office9_2" type="scholion">
@@ -99,10 +107,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p/>
             </div>
             <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.X</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.80</p>
             </div>
             <div type="comment">
-              <p/>
+              <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                    <abbr>Αρισταρχ</abbr>
+                    <expan>Ἀρίσταρχος</expan>
+                  </choice></persName>
+                <q>ἐπισταμένῳ περ εόντι</q>:</p>
             </div>
           </div>
           <div n="2015office9_3" type="scholion">
@@ -110,10 +122,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p/>
             </div>
             <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.X</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.84</p>
             </div>
             <div type="comment">
-              <p/>
+              <p>κρίνατε <choice>
+                  <abbr>δοκιμάσατ</abbr>
+                  <expan>δοκιμάσατε</expan>
+                </choice>:</p>
             </div>
           </div>
           <div n="2015office9_4" type="scholion">
@@ -121,10 +136,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p/>
             </div>
             <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.X</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.86</p>
             </div>
             <div type="comment">
-              <p/>
+              <p>παρα <persName n="urn:cite:hmt:pers.pers21"><choice>
+                    <abbr>Αριστοφα</abbr>
+                    <expan>Ἀριστοφάνει</expan>
+                  </choice></persName> καὶ τῇ Χίᾳ <q>νεικίουσιν</q> ⁑</p>
             </div>
           </div>
           <div n="2015office9_5" type="scholion">
@@ -132,10 +150,17 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p/>
             </div>
             <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.X</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.92</p>
             </div>
             <div type="comment">
-              <p/>
+              <p><choice>
+                  <abbr>ουτ</abbr>
+                  <expan>οὕτως</expan>
+                </choice>
+                <persName n="urn:cite:hmt:pers.pers16"><choice>
+                    <abbr>Ἀρισταρχ</abbr>
+                    <expan>Ἀρίσταρχος</expan>
+                  </choice></persName>, ἄλλοι δὲ <q>τῆς μεν θ' ἁπαλοί</q></p>
             </div>
           </div>
           <div n="2015office9_6" type="scholion">
@@ -143,10 +168,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p/>
             </div>
             <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.X</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.95</p>
             </div>
             <div type="comment">
-              <p/>
+              <p><persName n="urn:cite:hmt:pers.pers16"><choice><abbr>Ἀριστχ</abbr><expan>Ἀρίσταρχος</expan></choice></persName> <q><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> άσατο</q> ⁑</p>
             </div>
           </div>
           <div n="2015office9_7" type="scholion">
@@ -154,10 +179,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p/>
             </div>
             <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.X</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.100</p>
             </div>
             <div type="comment">
-              <p/>
+              <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> τὸ <q>εὐχόμενος</q> σαφῶς <choice><abbr>εστ</abbr><expan>ἐστι</expan></choice> αὐχώμενος παρὰ τὸ <q>αὐχεῖν</q> ⁑</p>
             </div>
           </div>
           <!-- 253v -->
