@@ -314,7 +314,7 @@
                                         <abbr>ἀριστοφα</abbr>
                                         <expan>Άριστοφάνει</expan>
                                     </choice></persName> ἐν δε τῇ <title>Μασσαλιωτικῇ</title> καὶ
-                                    <title>χίᾳ</title>
+                                    <title>Χίᾳ</title>
                                 <q>τοῖσι δ' <choice>
                                         <abbr>ἀνισταμε</abbr>
                                         <expan>ἀνιστάμενος</expan>
@@ -382,7 +382,7 @@
                     </div>
                     <div n="2015office9_4" type="scholion">
                         <div type="lemma">
-                            <p>ὑββάλειν.</p>
+                            <p><sic>ὑββάλειν</sic>.</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.80</p>
@@ -526,10 +526,10 @@
                                     </choice></persName> περισσὴν ἡγεῖται τὴν διά <choice>
                                     <abbr>προθ</abbr>
                                     <expan>πρόθεσιν</expan>
-                                </choice> εῖναι τὸ γὰρ εξῆς <q>θεος πάντα τελευτᾶ</q>. <persName
+                                </choice> εῖναι τὸ γὰρ εξῆς <q>θεὸς πάντα τελευτᾶ</q>. <persName
                                     n="urn:cite:hmt:pers.pers175">Δίδυμος</persName> δὲ ἡγεῖτο
                                 σημαντικὴν αυτὴν εῖναι τοῦ διόλου καὶ μὴ παρέλκειν ὥσπερ ἐπι τοῦ
-                                δίηλΐτης ὁ δι ὁλου ἁμαρτάνων οὐ προσεκτεον δὲ τοῖς ὑφ εν ἀνεγνωκῶσιν
+                                δίηλΐτης ὁ δι ὁλου ἁμαρτάνων οὐ προσεκτεον δὲ τοῖς ὑφ εν <sic>ἀνεγνωκῶσιν</sic>
                                 ⁑ </p>
                         </div>
                     </div>
@@ -549,13 +549,13 @@
                                     <expan>κακοσύνθετος</expan>
                                 </choice> τί γὰρ ἄλλο δύναται ποιεῖν ἡ <persName
                                     n="urn:cite:hmt:pers.pers1035">Ἄτη</persName> ἢ βλάπτειν οὐχ
-                                ὑγιῶς δὲ οὐδὲ τὸ <q>ἕταιον</q> τετακται· ἔδει γὰρ <q>ἄλλον</q>·
+                                ὑγιῶς δὲ οὐδὲ τὸ <q><sic>ἕταιον</sic></q> τετακται· ἔδει γὰρ <q>ἄλλον</q>·
                                 βιάζονται δέ τινες τὸν <persName n="urn:cite:hmt:pers.pers22"
                                     >Ἀγαμέμνονα</persName> λέγειν ἐφ ἑαυτοῦ καὶ τοῦ <persName
                                     n="urn:cite:hmt:pers.pers1">Ἀχιλλέως</persName> καθολικος δε
                                 ἐστιν ὁ λόγος, κοινότερον γοῦν εἰπὼν ἐπι τὸν ἡγεμονικώτατον
                                     <persName n="urn:cite:hmt:pers.pers8">Δία</persName> ἀνῆλθεν καὶ
-                                ὅλως παρῴδη ται ἐκ τῶν Λιτῶν <q>βλάπτουσ' <choice>
+                                ὅλως παρῴδηται ἐκ τῶν Λιτῶν <q>βλάπτουσ' <choice>
                                         <abbr>ἀνους</abbr>
                                         <expan>ἀνθρώπους·</expan>
                                     </choice></q>αἱ δ' ἐξακέονται οπίσσω ⁑</p>
@@ -573,10 +573,10 @@
                             <p><choice>
                                     <abbr>ουτ</abbr>
                                     <expan>οὕτως</expan>
-                                </choice> ἐν ἁπάσαις <q><choice>
+                                </choice> ἐν ἁπάσαις <q><persName n="urn:cite:hmt:pers.pers8"><choice>
                                         <sic>Ζεῦς</sic>
                                         <corr>Ζεὺς</corr>
-                                    </choice> άσατο</q> καὶ ἔστι ποιητικώτερον. ἐν δέ τισι τῶν
+                                    </choice></persName> άσατο</q> καὶ ἔστι ποιητικώτερον. ἐν δέ τισι τῶν
                                 εἰκαιοτέρων <q><persName n="urn:cite:hmt:pers.pers8">Ζῆν'</persName>
                                     ἄσατο</q> ⁑</p>
                         </div>
