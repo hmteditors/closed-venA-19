@@ -663,7 +663,7 @@
                     </div>
                     <div n="2015office10_2" type="scholion">
                         <div type="lemma">
-                            <p>εἰδ' άγε νῦν μοι όμοσσον.</p>
+                            <p>εἰδ' άγε νῦν μοι όμοσσον</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.108</p>
@@ -689,52 +689,58 @@
                                     <persName n="urn:cite:hmt:pers.pers8">Δία</persName> ηδυῖα ὅτι
                                 εσθόμενος τὸν <persName n="urn:cite:hmt:pers.pers71"
                                     >Ἡρακλέα</persName> δουλεύοντα ὑπεραγανακτήσει τῇ ἰσχυροτάτῃ
-                                ἀνάγκῃ κατέλαβεν αὐτόν ουτ//οὕτως <persName
-                                    n="urn:cite:hmt:pers.pers300">Ἀριστοτελης</persName> ⁑</p>
+                                ἀνάγκῃ κατέλαβεν αὐτόν <choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers300">Ἀριστοτελης</persName> ⁑</p>
                         </div>
                     </div>
                     <div n="2015office10_3" type="scholion">
                         <div type="lemma">
-                            <p>Ἥρη δ' ἀΐξασα</p>
+                            <p><persName n="urn:cite:hmt:pers.pers116">Ἥρη</persName> δ' ἀΐξασα·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.114</p>
                         </div>
                         <div type="comment">
-                            <p>πρὸς τὰ περὶ τοῦ Ὀλύμπου. ἔδει δὲ‘λίπ' οὐρανὸν ἀστερόεντα’· Ἀγαμέμνων
-                                γὰρ ὁ λέγων</p>
+                            <p>πρὸς τὰ περὶ τοῦ <placeName n="urn:cite:hmt:place.place45"
+                                    >Ολύμπου</placeName> ἔδει δὲ λίπ' οὐρανὸν <choice>
+                                    <abbr>ἀστερόεντ</abbr>
+                                    <expan>ἀστερόεντα</expan>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers22">Ἀγαμεμνων</persName> γὰρ ὁ
+                                λέγων ⁑</p>
                         </div>
                     </div>
                     <div n="2015office10_4" type="scholion">
                         <div type="lemma">
-                            <p>καρπαλίμως δ' ΐκετ</p>
+                            <p>καρπαλίμως δ' ΐκετ'.</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.115</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι τὴν Πελοπόννησον <placeName n="urn:cite:hmt:place.place114"
-                                    >Ἄργος</placeName> Ἀχαϊκὸν λέγει, τὴν <placeName
+                            <p>ὅτι τὴν <placeName n="urn:cite:hmt:place.place36">Πελοπόννησον</placeName> <placeName n="urn:cite:hmt:place.place114"
+                                    >Ἄργος Ἀχαιϊκὸν</placeName> λέγει τὴν <placeName
                                     n="urn:cite:hmt:place.place2">Θεσσαλίαν</placeName>
                                 <q>
-                                    <placeName n="urn:cite:hmt:place.place114">Ἄργος</placeName>
-                                    <rs type="ethnic" n="urn:cite:hmt:place.place114"
-                                        >Πελασγικόν</rs></q></p>
+                                    <placeName n="urn:cite:hmt:place.place114">Ἄργος Πελασγικόν</placeName></q> ⁑</p>
                         </div>
                     </div>
                     <div n="2015office10_5" type="scholion">
                         <div type="lemma">
-                            <p>ἰφθίμην ἅλοχον</p>
+                            <p>ἰφθίμην ἅλοχον:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.116</p>
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers175">Δίδυμος</persName>
-                                παρατίθεται Φερεκύδην μὲν λέγοντα αὐτὴν τὴν Πέλοπος
-                                    Ἀμφιβίαν,<persName n="urn:cite:hmt:pers.pers4">
-                                    Ἡσίοδος</persName> δὲ Νικίππην τὴν Πέλοπος, δὲ Ἀντιβίαν τὴν
-                                Ἀμφιδάμαντος ἀποφαίνεται.</p>
+                                παρατίθεται <persName n="urn:cite:hmt:pers.pers255">Φερεκύδην</persName> μὲν λέγοντα αὐτὴν τὴν Πέλοπος·
+                                    Ἀμφιβίαν, <persName n="urn:cite:hmt:pers.pers4">
+                                    Ἡσίοδος</persName> δὲ Ἀντιβίαν τὴν
+                                Ἀμφιδάμαντος ἀποφαίνεται ⁑</p>
                         </div>
                     </div>
                     <div n="2015office10_6" type="scholion">
