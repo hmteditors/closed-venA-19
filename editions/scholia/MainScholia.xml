@@ -861,6 +861,78 @@
                     <!-- 257r -->
                     <!-- 257v -->
                     <!-- 258r -->
+                    <div n="hc_1" type="scholion">
+                        <div type="lemma">
+                            <p>εἴ που ἔτι ζώει γε: </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.327</p>
+                        </div>
+                        <div type="comment">
+                            <p>καὶ <persName n="urn:cite:hmt:pers.pers21"><choice>
+                                        <abbr>Ἀριστοφα</abbr>
+                                        <expan>Ἀριστοφάνης</expan>
+                                    </choice></persName> προηθέτει τὸν στίχον ὡς φησὶ <persName
+                                    n="urn:cite:hmt:pers.pers309">Καλλίστρατος</persName> τό τε γὰρ
+                                ἐπὶ παιδὸς κομιδῆ λέγεσθαι διστακτικῶς <q>εἴ που ἔτι ζώει</q>· καὶ ταῦτα
+                                μηδε πόρρω τῆς <placeName n="urn:cite:hmt:place.place61"
+                                    >Σκύρου</placeName> κειμένης ὕποπτον τό τε θεοειδὴς ἀκαίρως
+                                προσέρριπται· τεκμήριον δὲ τῆς διασκευῆς τὸ καὶ ἑτέρως φέρεσθαι τὸν
+                                στίχον, <q>εἴ που ἔτι ζώει γε <persName n="urn:cite:hmt:pers.pers796"
+                                    >Πυρῆς</persName> ἐμός ὃν κατέλειπον</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="hc_2" type="scholion">
+                        <div type="lemma">
+                            <p>ἔτι ζώοντ' ἀκάχησθαι ⁑</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.335</p>
+                        </div>
+                        <div type="comment">
+                            <p>προπερισπᾶται ὡς λελυπῆσθαι· οἱ δὲ προπαρώξυναν ὡς <rs type="ethnic" n="urn:cite:hmt:place.place77">Αἰολικὸν</rs> ἐν
+                                παρατατικῇ σημασία. ἐπεὶ οῖδε καὶ τὴν <q>ἀκαχήμενος</q>
+                                μετοχὴν τοιαύτην οἶς καὶ ἐπείσθη ἡ <choice><abbr>παράδο</abbr><expan>παράδοσις</expan></choice> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="hc_3" type="scholion">
+                        <div type="lemma">
+                            <p>τεκνον ἐμὸν </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.342</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι <persName n="urn:cite:hmt:pers.pers15"><choice><abbr>Ζηνόδοτ</abbr><expan>Ζηνόδοτος</expan></choice></persName> γράφει <q>ἑοῖο</q> τοῦτο δὲ παρα τὸ πρόσωπόν εστιν
+                                ⁑</p>
+                        </div>
+                    </div>
+                    <div n="hc_4" type="scholion">
+                        <div type="lemma">
+                            <p>ἀλλ' ἴ̈θιοι νέκτάρ τε</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.347-19.348</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι κατ αμφοτέρων τὸ <q>στάξον</q> τῆς ἀμβροσίας καὶ τοῦ νέκταρος
+                                ἡ γὰρ ἀμβροσία ἐστι ξηρα τροφή ⁑</p>
+                        </div>
+                    </div>
+                    <div n="hc_5" type="scholion">
+                        <div type="lemma">
+                            <p>ἣ δ' ἅρπη·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.350</p>
+                        </div>
+                        <div type="comment">
+                            <p><q>ἅρπη</q>. τῷ ἰκτίνῳ, οἱ δε ζῶον θαλάσσιον πολεμοῦν λάρῳ καὶ βρέννῳ φιλεῖ
+                                δὲ τὴν τροφήν ἡν ἂν συνάγει ἐπι τοῖς τάρφεσιν. καὶ ταύτην ἐπιχορηγεῖ
+                                τοῖς νεοσσοῖς. ὡς οἱκείως οὖν νῦν εἴκασε τὴν <placeName n="urn:cite:hmt:place.place1">Ἀθηνὰν</placeName>· οἱ δὲ ὅτι ἐφ
+                                ύψους ἱπταμενον εὐχερῶς ὅπῃ θέλει καταρράσσει ⁑</p>
+                        </div>
+                    </div>
                     <!-- 258v -->
                     <!-- 259r -->
                     <!-- 259v -->
