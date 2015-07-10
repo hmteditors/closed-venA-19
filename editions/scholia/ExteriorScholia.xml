@@ -52,6 +52,28 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     <!-- 258r -->
                     <!-- 258v -->
                     <!-- 259r -->
+                    <div n="hc_3" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.386</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                      <div n="hc_4" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.401</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
                     <!-- 259v -->
                     
                 </body>

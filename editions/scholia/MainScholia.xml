@@ -968,6 +968,94 @@
                         </div>
                     </div>
                     <!-- 259r -->
+                    <div n="hc_9" type="scholion">
+                        <div type="lemma">
+                            <p>καλοῦ δαιδαλέου:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.380</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἀναλαβὼν τὴν ἀσπίδα μετα <choice><abbr>ταυτ</abbr><expan>ταῦτα</expan></choice> ἐπι πᾶσι τὴν περικεφαλαίαν τίθησιν ⁑</p>
+                        </div>
+                    </div>
+                    <div n="hc_10" type="scholion">
+                        <div type="lemma">
+                            <p>πειρήθη δ' ἕο αὐτοῦ·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.384</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">Ζηνοδοτος</persName> γράφει <q>ἑοῦ αυτοῦ</q> συγχεῖ δὲ τὸ σύναρθρον ἀντι ἀπολελυμένου λαμβάνων ⁑</p>
+                        </div>
+                    </div>
+                    <div n="hc_11" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.385</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὴν <q>οῖ</q> ἀντωνυμίαν περισπᾷ ὁ <persName n="urn:cite:hmt:pers.pers485">Ἀσκαλωνίτης</persName> καὶ φησὶ κεῖσθαι δοτικὴν ἀντι γενικῆς. οἱ δὲ βαρυτονοῦσιν· ἔστι μὲν οὖν καὶ ἐγκλϊτικὴν εὑρέσθαι τὴν <q>οἱ</q> ἀντι γενικῆς κειμένην ὥσπερ ἐπι τοῦ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.387</ref><q>οἱ δέ οἱ ἐβλάφθησαν</q></cit> ἔστι δὲ καὶ <choice><abbr>ὀρθοτονουμε</abbr><expan>ὀρθοτονουμένην</expan></choice> ἀντὶ <choice><abbr>αιτιατ</abbr><expan>αἰτιατικῆς</expan></choice> ὥσπερ ἐπι τοῦ <cit><ref type="urn">urn:cts:greekLit:tlg0012:tlg002:17.330</ref><q>νευσ ἐπι οἱ καλέσας.</q></cit> καὶ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.418</ref><q>προτί οἱ δὲ λαβῶν ἔντερα</q></cit>· οὐ μέντοι ποτὲ ἐν τῆ καλουμένῃ ἐπιταγματικῇ συντάξει ἄλογον γὰρ τὸ τοιοῦτον ὥστε ἐπιφέρεσθαι τὴν <q>αὐτοῦ</q> γενικὴν καὶ τὴν <q>οῖ</q> προκεῖσθαι δοτικὴν ὑπάρχουσαν ὅπερ οὐχ ὑγιές· ἀεὶ γὰρ ταῖς πρωτοτύποις ὁμοιοπτῶτος συντάσσεται ἡ αὐτοῦ ἀντωνυμία· πιστέον οὖν <persName n="urn:cite:hmt:pers.pers16">Ἀριστάρχῳ</persName> γράφοντι πειρήθη δ' <q>ἕο αυτοῦ</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="hc_12" type="scholion">
+                        <div type="lemma">
+                            <p>τῷ δ' εῦτε πτερὰ</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.386</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὕτως γραπτέον <q>τῷ δ' εῦτε</q> ἵνα ᾗ ὡσεὶ πτερὰ δια τὴν κουφότητα ἔξωθεν δὲ τὸ <rs type="waw">ως</rs> . πρότερον δὲ γράφων ὁ <persName n="urn:cite:hmt:pers.pers16"><choice><abbr>Ἀρίσταρχ</abbr><expan>Ἀρίσταρχος</expan> </choice></persName> <q>τῷ δ' εὗτε</q> καὶ κατα συστολὴν δεχόμενος ἀντι τοῦ <q>ηῦτε</q> ὡς επι τοῦ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.10</ref><q>εὐτ ορεος κορυφῇσι</q></cit> μετέγραψεν ὕστερον <q>τῷ δ' αὖτε</q>, ἐμφατικώτερον νομίσας εἶναι ὑπακουομένου τοῦ ως ὡς κἀκεῖ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:7.107</ref><q>καί ρ' ἀπολείβεται </q></cit> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="hc_13" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.386</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="hc_14" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.387</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+         <div n="hc_15" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.398</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="hc_16" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.400</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
                     <!-- 259v -->
                 </body>
             </text>
