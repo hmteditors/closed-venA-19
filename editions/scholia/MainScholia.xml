@@ -663,30 +663,30 @@
                     </div>
                     <div n="2015office10_2" type="scholion">
                         <div type="lemma">
-                            <p>εἰδ' άγε νῦν μοι όμοσσον</p>
+                            <p>εἰ δ' άγε νῦν μοι όμοσσον</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.108</p>
                         </div>
                         <div type="comment">
                             <p>δια τί ἡ <persName n="urn:cite:hmt:pers.pers116">Ήρα</persName>
-                                ὁμόσαι πρὸς τὸν <persName n="urn:cite:hmt:pers.pers8">Δία</persName>
+                                <sic>ὁμόσαι</sic> πρὸς τὸν <persName n="urn:cite:hmt:pers.pers8">Δία</persName>
                                 ἠ δῆλον ὡς οὐ ποιοῦντα ἃ ἂν φῇ εἰ δε τοῦτο δια τί οὐ κατανεῦσαι,
                                 ἀλλα καὶ <w><unclear>ὀ</unclear>μόσαι</w> ἠξίωσεν ὡς καὶ ψευδομένου
-                                ἀν μὴ ὁμόσῃ ὁ δὲ ποιητής φασιν ἀληθεύειν <cit>
+                                ἀν μὴ <sic>ὁμόσῃ</sic> ὁ δὲ ποιητής φασιν ἀληθεύειν <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.527</ref>
                                     <q>ὅτι κεν κεφαλῇ κατανεύσῃ</q>
-                                </cit>, τὸ μὲν οὖν ὄλον μυθῶδες καὶ γὰρ οὐδ' ἀφ ἑαυτοῦ ταῦτά φησὶν
+                                </cit>, τὸ μὲν οὖν <sic>ὄλον</sic> μυθῶδες καὶ γὰρ οὐδ' ἀφ ἑαυτοῦ ταῦτά φησὶν
                                     <persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> οὐδε
                                 γινόμενα εἰσάγει. ἀλλως διαδεδομένων περὶ τὴν <persName
                                     n="urn:cite:hmt:pers.pers71">Ἡρακλέους</persName> γένεσιν
                                 μέμνηται· ῥητέον δὲ ὅτι καὶ ὁ μῦθος εἰκότως εἰσάγει τὴν <persName
                                     n="urn:cite:hmt:pers.pers116">Ήραν</persName> ὁρκοῦσαν τὸν
                                     <persName n="urn:cite:hmt:pers.pers8">Δία</persName> πάντες γὰρ
-                                περι ῶν ἂν φοβῶνται μὴ ἄλλως ἀποβῆ· πολλυ τῷ ἀσφαλεῖ προέχειν
+                                περι ῶν ἂν φοβῶνται μὴ ἄλλως ἀποβῆ· <sic>πολλυ</sic> τῷ ἀσφαλεῖ προέχειν
                                 πειρῶνται διὸ καὶ ἡ <persName n="urn:cite:hmt:pers.pers116"
                                     >Ήρα</persName> ἅτε οὐ περι μικρῶν, ἀγωνιζομένη καὶ τὸν
-                                    <persName n="urn:cite:hmt:pers.pers8">Δία</persName> ηδυῖα ὅτι
+                                    <persName n="urn:cite:hmt:pers.pers8">Δία</persName> <sic>ηδυῖα</sic> ὅτι
                                 εσθόμενος τὸν <persName n="urn:cite:hmt:pers.pers71"
                                     >Ἡρακλέα</persName> δουλεύοντα ὑπεραγανακτήσει τῇ ἰσχυροτάτῃ
                                 ἀνάγκῃ κατέλαβεν αὐτόν <choice>
@@ -758,7 +758,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.117</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι νῦν ὑγιῶς γράφεται σὺν τῇ προθέσει προ φόως προ γὰρ τῶν μηνῶν τῶν
+                            <p>ὅτι νῦν ὑγιῶς γράφεται σὺν τῇ προθέσει <q>προ φόως</q> προ γὰρ τῶν μηνῶν τῶν
                                 καθικόντων ἐγεννηθη δι ὁ ἠλιτόμηνος. ὁ δὲ <persName
                                     n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> καὶ ἐπ άλλου
                                 οὕτως γράφει ⁑</p>
@@ -782,11 +782,11 @@
                                 γεννηθέντα τῶν ἐξ αυτοῦ βασιλεύσειν· <persName
                                     n="urn:cite:hmt:pers.pers116">Ἥρα</persName> δὲ ζηλοτύπως
                                 διατεθεῖσα τὰς μὲν <persName n="urn:cite:hmt:pers.pers906"
-                                    >Ἀλκμήνης</persName> ὠδίνας ἐπεσχε <persName
+                                    >Ἀλκμήνης</persName> <sic>ὠδίνας</sic> ἐπεσχε <persName
                                     n="urn:cite:hmt:pers.pers1038">Ἀντιβίαν</persName> δὲ, ἥν τινες
                                     <persName n="urn:cite:hmt:pers.pers1038">Νικίππην</persName>
                                 εἶπον τὴν <persName n="urn:cite:hmt:pers.pers1043"
-                                    >Σθενέλου</persName> γυναῖκα κυοφορουσαν <persName
+                                    >Σθενέλου</persName> γυναῖκα κυοφοροῦσαν <persName
                                     n="urn:cite:hmt:pers.pers391">Εὐρυσθέα</persName> ἑπτάμηνον
                                 τεκεῖν ἐποίησεν ὅθεν καὶ τὰ ἑπτάμηνα γεννώμενα τροφῆς μοῖραν ἔλαχεν·
                                 βασιλεύων δὲ <persName n="urn:cite:hmt:pers.pers391"
@@ -811,8 +811,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.117</p>
                         </div>
                         <div type="comment">
-                            <p>μῆν <rs type="ethnic" n="urn:cite:hmt:place.place77">Αἰολικῶς</rs>
-                                ὥσπερ δε ρεῖς ρείνός καὶ θεῖς θινὸς ουτως καὶ μεῖς μηνός <w>κλ<add
+                            <p><sic>μῆν</sic> <rs type="ethnic" n="urn:cite:hmt:place.place77">Αἰολικῶς</rs>
+                                ὥσπερ δε <sic>ρεῖς</sic> <sic>ρείνός</sic> καὶ θεῖς θινὸς ουτως καὶ <sic>μεῖς</sic> μηνός <w>κλ<add
                                         place="supralinear">η</add>θήσεται</w>
                                 <choice>
                                     <abbr>κατ</abbr>

@@ -215,7 +215,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.111</p>
             </div>
             <div type="comment">
-              <p>τούτων τῶν ἀνδρῶν οἳ ἐκ τῆς σῆς σπορᾶς τὸ αῖμα ἔχοιν ⁑</p>
+              <p>τούτων τῶν ἀνδρῶν οἳ ἐκ τῆς σῆς <w>σπ<unclear>ο</unclear>ρᾶς</w> <w>τ<unclear>ὸ</unclear></w> αῖμα ἔχουσιν ⁑</p>
             </div>
           </div>
           <div n="2015office10_3" type="scholion">
@@ -237,7 +237,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.124</p>
             </div>
             <div type="comment">
-              <p>κατ ενίας τῶν ἐκδόσεων ἀνθρώποισι ⁑</p>
+              <p>κατ ενία τῶν ἐκδόσεων ἀνθρώποισι ⁑</p>
             </div>
           </div>
           <!-- 254r -->
