@@ -103,10 +103,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.391</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.391@ἐκ</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ν</p>
                         </div>
                     </div>
                     <div n="hc_3" type="scholion">
@@ -114,10 +114,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.391</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.391@κορυφῆς</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ι</p>
                         </div>
                     </div>
                     <div n="hc_4" type="scholion">
@@ -125,10 +125,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.393</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.393@ἕσαν</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>περιέβαλον:</p>
                         </div>
                     </div>
                 
