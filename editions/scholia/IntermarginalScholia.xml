@@ -323,21 +323,21 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.402</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ἐν <choice><abbr>αλλ</abbr><expan>ἄλλῳ</expan></choice>· <q>ὰψ λαῶν</q></p>
                         </div>
                     </div>
-                    <div n="hc_6" type="scholion">
+                    <div n="hc_7" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.403</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>γράφεται <q>λίπετ' αὐτόθι</q> ⁑</p>
                         </div>
                     </div>
                 </body>
