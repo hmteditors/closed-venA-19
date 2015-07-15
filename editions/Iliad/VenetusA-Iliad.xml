@@ -362,7 +362,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           <l n="232">ἀνδράσι δυσμενέεσσι μαχώμεθα νωλεμὲς αἰεὶ·</l>
           <l n="233">ἑσσάμενοι χροὶ χαλκὸν ἀτειρέα μὴ δέ τι ἄλλην</l>
           <l n="234">λαῶν ὀτρυντὺν ποτιδέγμενος ἰσχαναάσθω·</l>
-          <l n="235">ἤδε γὰρ ὀτρυντύς κακὸν ἔσσεται ὅς κε λίπηται</l>
+          <l n="235"><sic>ἤδε</sic> γὰρ ὀτρυντύς κακὸν ἔσσεται ὅς κε λίπηται</l>
           <l n="236">νηυσὶν ἐπ' <rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείων</rs>· ἀλλ' ἀθρόοι ὁρμηθέντες</l>
         <l n="237"><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶν</rs> ἐφ' ἱπποδάμοισιν ἐγείρομεν ὀξὺν <persName n="urn:cite:hmt:pers.pers83">Ἄρηα</persName></l>
         <l n="238"> ἦ καὶ <persName n="urn:cite:hmt:pers.pers117">Νέστορος</persName> υἷας ὀπάσσατο κυδαλίμοιο </l>
@@ -375,10 +375,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           <l n="245">ἐκ δ' ἄγον αἶψα γυναῖκας· ἀμύμονα ἔργ' εἰδυίας.</l>
         <l n="246">ἕπτ'· ἀτὰρ ὀγδοάτην <persName n="urn:cite:hmt:pers.pers113">Βρισηίδα</persName> καλλιπάρῃον</l>
         <l n="247">χρυσοῦ δὲ στήσας <persName n="urn:cite:hmt:pers.pers118">Ὀδυσεὺς</persName> δέκα πάντα τάλαντα</l>
-        <l n="248">ἦρχ'. ἅμα δ' ἄλλοι δῶρα φέρον κουρητες <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>·</l>
+        <l n="248">ἦρχ'. ἅμα δ' ἄλλοι δῶρα φέρον κούρητες <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>·</l>
         <l n="249">καὶ τὰ μὲν ἐν μέσσῃ ἀγορῇ θέσαν ἀν δ' <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνων</persName></l>
         <l n="250">ἵστατο· <persName n="urn:cite:hmt:pers.pers159">Ταλθύβιος</persName> δὲ θεῷ ἐναλίγκϊος αὐδήν</l>
-        <l n="251">κάπρον ἔχων ἐγχειρὶ παρίστατο ποιμένι λαῶν</l>
+        <l n="251">κάπρον ἔχων <sic>ἐγ</sic> χειρὶ παρίστατο ποιμένι λαῶν</l>
         <l n="252"><persName n="urn:cite:hmt:pers.pers22">Ἀτρείδης</persName> δὲ <w>ἐρυ<add place="supralinear">σ</add>σάμενος</w> χείρεσσι μάχαιραν</l>
         <l n="253">ἥ, οἱ πὰρ ξίφεος μέγα κουλεὸν αἰὲν ἄωρτο·</l>
         <l n="254">κάπρου ἀπὸ τρίχας ἀρξάμενος <persName n="urn:cite:hmt:pers.pers8">Διὶ</persName> χεῖρας ἀνασχών</l>
@@ -390,7 +390,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="260">ἀνθρώπους <w>τίνυντ<add place="supralinear">αι</add></w> ὅτις κ' ἐπίορκον ὀμόσση·</l>
         <l n="261">μὴ μὲν ἐγὼ κούρῃ <persName n="urn:cite:hmt:pers.pers113">Βρισηίδι</persName> χεῖρ' επενεῖκαι·</l>
         <l n="262">οὔτ' εὐνῆς πρόφασιν κεχρημένος οὔτέ τευ ἄλλου·</l>
-        <l n="263">ἀλλ' ἔμεν' ἀπροτίμασος ἐνὶ κλισίῃσιν ἐμῇσιν</l>
+        <l n="263">ἀλλ' ἔμεν' ἀπροτίμαστος ἐνὶ κλισίῃσιν ἐμῇσιν</l>
         <l n="264">εἰ δέ τι τῶνδ' ἐπίορκον, ἐμοὶ θεοὶ ἄλγεα δοῖεν·</l>
         <l n="265"> πολλὰ μάλ' ὅσσα διδοῦσιν ὅστίς σφ' <w>ἀλίτητ<add place="supralinear">αι</add></w> <w>ὀμόσσ<add>ας</add></w>·</l>
         <l n="266"> ἦ καὶ ἀπὸ στόμαχον κάπρου τάμε νηλέϊ χαλκῷ· </l>
@@ -402,14 +402,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="272"><persName n="urn:cite:hmt:pers.pers22">Ἀτρείδης</persName> ὤρινε διαμπερές οὐδέ κε κούρην</l>
         <l n="273">ἦγεν ἐμεῦ ἀέκοντος ἀμήχανος· ἀλλά ποθι <persName n="urn:cite:hmt:pers.pers8">Ζεύς</persName></l>
         <l n="274">ἤθελ' <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοῖσιν</rs> θάνατον πολέεσσι γενέσθαι·</l>
-        <l n="275">νῦν δ' ἔρχεσθ' ἐπὶ δεῖπνον ἵνα ξυνάγωμα <persName n="urn:cite:hmt:pers.pers83">Ἄρηα</persName>·</l>
+        <l n="275">νῦν δ' ἔρχεσθ' ἐπὶ δεῖπνον ἵνα ξυνάγωμεν <persName n="urn:cite:hmt:pers.pers83">Ἄρηα</persName>·</l>
         <l n="276"> ὣς ἄρ ἐφώνησεν. λῦσεν δ' ἀγορὴν αἰψηρήν </l>
         <l n="277">οἱ μὲν ἄρ ἐσκίδναντο ἑὴν ἐπὶ νῆα ἕκαστος·</l>
         <l n="278">δῶρα δὲ Μυρμιδόνες μεγαλήτορες <w>ἀμφεπένον<add place="supralinear">το</add></w>·</l>
         <l n="279">βὰν δ' ἐπὶ νῆα φέροντες <persName n="urn:cite:hmt:pers.pers1">Ἀχϊλλῆος</persName> θείοιο·</l>
         <l n="280">καὶ τὰ μὲν ἐν κλισίῃσι θέσαν κάθισαν δὲ <w>γυναῖκ<add place="supralinear">ας</add></w>,</l>
         <l n="281">ἵππους δ' ἐς ἀγέλην ἔλασαν θεράποντες ἀγαυοί.</l>
-        <l n="282"><persName n="urn:cite:hmt:pers.pers113">Βρισηὶς</persName> δ' ἄρ ἔπειθ' ἱκέλη χρυσῇ <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτῃ</persName>·</l>
+        <l n="282"><persName n="urn:cite:hmt:pers.pers113">Βρισηὶς</persName> δ' ἄρ ἔπειθ' <sic>ἱκέλη</sic> χρυσῇ <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτῃ</persName>·</l>
         <l n="283">ὡς ἴδε <persName n="urn:cite:hmt:pers.pers158">Πάτροκλον</persName> δεδαϊγμένον ὀξέϊ χαλκῷ</l>
         <l n="284">ἀμφ' αὐτῷ χυμένη λίγ' ἐκώκυε· χερσὶ δ' ἄμυσσε</l>
         <l n="285">στήθεά τ' ἠδ' ἁπαλὴν δειρὴν· ἰδὲ καλὰ πρόσωπα·</l>
@@ -418,11 +418,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="288">ζωὸν μέν σ' ἔλειπον ἐγὼ κλισίηθεν ἰοῦσα</l>
         <l n="289">νῦν δέ σε τεθνηῶτα κιχάνομαι ὄρχαμε λαῶν.</l>
         <l n="290">ἂψ ἀνιοῦσ' ὥς μοι δέχεται κακὸν ἐκ κακοῦ αἰεὶ.</l>
-        <l n="291">ἄνδρα μὲν ᾧ ἔδοσάν μ<add place="supralinear">ε</add> πατὴρ καὶ πότνια μήτηρ.</l>
-        <l n="292">εἶδον προ πτόλιος δεδαϊγμένον ὀξεί χαλκῷ·</l>
-        <l n="293">τρεῖς τε κασιγνήτους τούς μ<add place="supralinear">οι</add> μία <w>γ<unclear>εί</unclear>νατο</w> μήτηρ·</l>
+        <l n="291">ἄνδρα μὲν ᾧ ἔδοσάν <w>μ<add place="supralinear">ε</add></w> πατὴρ καὶ πότνια μήτηρ.</l>
+        <l n="292">εἶδον προ πτόλιος δεδαϊγμένον ὀξέι χαλκῷ·</l>
+        <l n="293">τρεῖς τε κασιγνήτους τούς <w>μ<add place="supralinear">οι</add></w> μία <w>γ<unclear>εί</unclear>νατο</w> μήτηρ·</l>
         <l n="294">κηδείους· οἳ πάντες ὀλέθριον ἦμαρ ἐπέσπον·</l>
-        <l n="295"> οὐδὲ μὲν οὐδέ μ' ἔασκες ὅτ' ἄνδρ' ἐμὸν ὠκὺς Αχιλλ<add place="supralinear">εὺς</add></l>
+        <l n="295"> οὐδὲ μὲν οὐδέ μ' ἔασκες ὅτ' ἄνδρ' ἐμὸν ὠκὺς <persName n="urn:cite:hmt:pers.pers1"><w>Αχιλλ<add place="supralinear">εὺς</add></w></persName></l>
         <l n="296">ἔκτεινεν πέρσεν δὲ πόλιν θείοιο <persName n="urn:cite:hmt:pers.pers744">Μύνητος</persName></l>
         <l n="297">κλαίειν· ἀλλά μ' ἔφασκες <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλῆος</persName> θείοιο</l>
         <l n="298">κουριδίην ἄλοχον θήσειν· ἄξειν δ' ἐνὶ νηυσὶν</l>
