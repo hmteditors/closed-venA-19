@@ -93,7 +93,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.348@στήθεσσ'</p>
                         </div>
                         <div type="comment">
-                            <p>ι</p>
+                            <p><rs type="waw">ι</rs></p>
                         </div>
                     </div>
                     <!-- 258v -->

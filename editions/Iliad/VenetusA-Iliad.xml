@@ -485,11 +485,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="355">αὐτὴ δὲ πρὸς πατρὸς ἐρισθενέος πυκινὸν δῶ</l>
         <l n="356">ᾤχετο· τοὶ δ' ἀπάνευθε, νεῶν ἐχέοντο θοάων·</l>
         <l n="357">ὡς δ' ὅτε ταρφειαὶ νιφάδες. <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> ἐκποτέονται.</l>
-        <l n="358">ψυχραὶ, ὑπαι ῥιπῆς αἰθρηγενέος <placeName n="urn:cite:hmt:place.place599">Βορέαο</placeName>·</l>
+        <l n="358">ψυχραὶ, ὑπαι ῥιπῆς αἰθρηγενέος <persName n="urn:cite:hmt:pers.pers599">Βορέαο</persName>·</l>
         <l n="359">ὡς τότε ταρφειαὶ κόρυθες λαμπρὸν γανόωσαι</l>
         <l n="360">νηῶν ἐκφορέοντο· καὶ ἀσπίδες ὀμφαλόεσσαι·</l>
         <l n="361">θώρηκές τε κραταιγύαλοι καὶ μείλινα δοῦρα·</l>
-        <l n="362">αἴγλη δ' οὐρανὸν ΐκε· γέλασσε δὲ πᾶσα περι <choice><sic>χθῶν</sic><corr>χθὼν</corr></choice></l>
+        <l n="362">αἴγλη δ' οὐρανὸν <sic>ΐκε</sic>· γέλασσε δὲ πᾶσα περι <choice><sic>χθῶν</sic><corr>χθὼν</corr></choice></l>
         <l n="363">χαλκοῦ ὑπο στεροπῆς. ὑπο δὲ κτύπος όρνυτο ποσσὶν</l>
         <l n="364">ἀνδρῶν· ἐν δὲ μέσοισι κορύσσετο δῖος <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεύς</persName>·</l>
         <l n="365">τοῦ καὶ ὀδόντων μὲν καναχὴ πέλε· τὼ δέ οἱ ὄσσε</l>
@@ -502,7 +502,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="372">ἀμφι δ' ὰρ ὤμοισιν βάλετο ξίφος ἀργυρόηλον.</l>
         <l n="373">χάλκεον· αὐτὰρ ἔπειτα σάκος μέγα τε στιβαρόν τε</l>
         <l n="374">εἵλετο· τοῦ δ' ἀπάνευθε σέλας γένετ', ἠΰτε μήνης·</l>
-        <l n="375">ὡς δ' ὅτ αν ἐκ πόντοιο, σέλας ναύτῃσι φανῄῃ</l>
+        <l n="375">ὡς δ' ὅτ αν ἐκ πόντοιο, σέλας ναύτῃσι <sic>φανῄῃ</sic></l>
         <l n="376">καιομένοιο πυρός, τό τε καίεται ὑψόθ' ὄρεσφι</l>
         <l n="377">σταθμῷ ἐν οἰοπόλῳ. τοὺς δ' οὐκ εθέλοντας ἄελλαι</l>
         <l n="378">πόντον ἐπ' ϊχθυόεντα. φίλων ἀπάνευθε φέρουσιν.</l>
@@ -530,7 +530,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="400"><persName n="urn:cite:hmt:pers.pers604">Ξάνθέ</persName> τε καὶ <persName n="urn:cite:hmt:pers.pers1050">Βαλίε</persName>. τηλεκλυτὰ τέκνα <persName n="urn:cite:hmt:pers.pers1045">Ποδάργης</persName>.</l>
         <l n="401">ἄλλως δὴ φράζεσθε σαωσέμεν ἡνιοχῆα</l>
         <l n="402">ὰψ <rs type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναῶν</rs> ἐς όμιλον. ἐπεί χ' ἑῶμεν πολέμοιο·</l>
-        <l n="403">μηδ' ὡς <persName n="urn:cite:hmt:pers.pers158">Πάτροκλον</persName> λίπετ' αὐτοῦ <choice><orig>τεθνειῶτα</orig><reg>τεθνηῶτα</reg></choice>·</l>
+        <l n="403">μηδ' ὡς <persName n="urn:cite:hmt:pers.pers158">Πάτροκλον</persName> λίπετ' αὐτοῦ <choice><orig><sic>τεθνειῶτα</sic></orig><reg>τεθνηῶτα</reg></choice>·</l>
         <l n="404">τὸν δ' ὰρ ὑπὸ ζυγόφιν προσέφη πόδας αἰόλος ἵππος </l>
         <l n="405"><persName n="urn:cite:hmt:pers.pers604">Ξάνθος</persName>. ἄφαρ δ' ἤμυσε καρήατι. πᾶσα δὲ χαίτη</l>
         <l n="406">ζεύγλης ἐξεριποῦσα παρὰ ζυγὸν οῦδας ΐκανεν·</l>
@@ -542,13 +542,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="412"><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs> ἀπ' ὤμοιϊν <persName n="urn:cite:hmt:pers.pers158">Πατρόκλου</persName> τεύχε' ἕλοντο·</l>
         <l n="413">ἀλλὰ θεῶν <choice><sic>ὥριστος</sic><corr>ὤριστος</corr></choice>, ὃν ἠΰκομος τέκε <persName n="urn:cite:hmt:pers.pers35">Λητὼ</persName>.</l>
         <l n="414">ἔκταν' ἐνι προμάχοισι· καὶ <persName n="urn:cite:hmt:pers.pers172">Ἕκτορι</persName> κῦδος ἔδωκε·</l>
-        <l n="415">νῶϊ δὲ καὶ//καί κεν ἅμα πνοιῇ <persName n="urn:cite:hmt:pers.pers320">Ζεφύροιο</persName> <choice><orig>θέοιμεν</orig><reg>θέωμεν</reg></choice></l>
+        <l n="415">νῶϊ δὲ <choice><sic>καὶ</sic><corr>καί</corr></choice> κεν ἅμα πνοιῇ <persName n="urn:cite:hmt:pers.pers320">Ζεφύροιο</persName> <choice><orig>θέοιμεν</orig><reg>θέωμεν</reg></choice></l>
         <l n="416">ἥν περ ἐλαφροτάτην φὰσ' ἔμμεναι· ἀλλὰ σοὶ αὐτῷ</l>
         <l n="417">μόρσιμόν ἐστι θεῷ τε καὶ ἀνέρι ῗφι δαμῆναι·</l>
         <l n="418"> ὡς ἄρα φωνήσαντος. Ἐρινύες ἔσχεθον αὐδήν.</l>
         <l n="419">τὸν δὲ μέγ' ὀχθήσας προσέφη πόδας ὠκὺς <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεύς</persName>·</l>
         <l n="420"><persName n="urn:cite:hmt:pers.pers604">Ξάνθε</persName>, τί μοι θάνατον μαντεύεαι· οὐδέ τι σε χρή·</l>
-        <l n="421">εῦ ναί//νυ τοι οἶδα καὶ αὐτὸς. ὅ μοι μόρος ἐνθάδ' ὀλέσθαι</l>
+        <l n="421">εῦ <choice><orig>ναί</orig><reg>νυ</reg></choice> τοι οἶδα καὶ αὐτὸς. ὅ μοι μόρος ἐνθάδ' ὀλέσθαι</l>
         <l n="422">νόσφι φίλου πατρὸς καὶ μητέρος· ἀλλὰ καὶ ἔμπης</l>
         <l n="423">οὐ λήξω. πρὶν <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶας</rs> άδην ελάσαι πολεμοιο·</l>
         <l n="424"> ῆ ῥα· καὶ ἐν πρώτοις ϊάχων ἔχε μώνυχας ἵ̈ππους </l>
