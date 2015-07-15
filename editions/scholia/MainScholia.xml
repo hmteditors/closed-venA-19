@@ -777,8 +777,8 @@
                             <p><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> μιγεὶς
                                     <persName n="urn:cite:hmt:pers.pers906">Ἀλκμήνῃ</persName> τῇ
                                     <persName n="urn:cite:hmt:pers.pers923">Ἠλεκτρυόνος</persName>
-                                ὃν δὲ τρόπον εἴρηται ἐν τῇ <title type="urn"
-                                    n="urn:cts:greekLit:tlg0012.tlg001:14">Ξ</title> ἔγκυον
+                                ὃν δὲ τρόπον εἴρηται ἐν τῇ <title><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:14</ref>
+                                    ξ</title> ἔγκυον
                                 κατέστησε· μελλούσης δὲ τίκτειν ώμοσεν ἐν θεοῖς τὸν ἐκείνῃ τῇ ἡμέρα
                                 γεννηθέντα τῶν ἐξ αυτοῦ βασιλεύσειν· <persName
                                     n="urn:cite:hmt:pers.pers116">Ἥρα</persName> δὲ ζηλοτύπως
@@ -820,7 +820,7 @@
                                 <choice>
                                     <abbr>κατ</abbr>
                                     <expan>κατὰ</expan>
-                                </choice> τὴν ἀναλουγίαν ⁑</p>
+                                </choice> τὴν ἀναλογίαν ⁑</p>
                         </div>
                     </div>
                     <div n="2015office10_9" type="scholion">
