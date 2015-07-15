@@ -274,7 +274,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="169">θαρσαλέον νύ οἱ ἦτορ ἐνὶ φρεσὶν οὐδέ τι γυῖα</l>
         <l n="170">πρὶν κάμνει· πρὶν πάντας ἐρωῆσαι πολέμοιο·</l>
         <l n="171">ἀλλ' ἄγε λαὸν μὲν σκέδασον καὶ δεῖπνον ἄνωχθι</l>
-        <l n="172">ὄπλεσθαι· τὰ δὲ δῶρα ἄναξ ἀνδρῶν <persName n="urn:cite:hmt:pers.pers22"><w>Ἀ<add
+        <l n="172"><sic>ὄπλεσθαι</sic>· τὰ δὲ δῶρα ἄναξ ἀνδρῶν <persName n="urn:cite:hmt:pers.pers22"><w>Ἀ<add
                 place="supralinear">γ</add>αμέμνων</w></persName></l>
         <l n="173">οἰσέτω ἐς <w>μέσ<add place="supralinear">σ</add>ην</w> ἀγορήν· ἵνα πάντες <rs
             type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοὶ</rs></l>
