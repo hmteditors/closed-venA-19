@@ -527,7 +527,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="397"><persName n="urn:cite:hmt:pers.pers217">Αὐτομέδων</persName>· ὄπιθεν δὲ κορυσσάμενος βῆ <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεὺς</persName>.</l>
         <l n="398">τεύχεσι παμφαίνων, ὥς τ' ἠλέκτωρ <persName n="urn:cite:hmt:pers.pers146">Ὑπερίων</persName>·</l>
         <l n="399">σμερδαλέον δ' ἵπποισιν ἐκέκλετο πατρὸς ἑοῖο·</l>
-        <l n="400"><persName n="urn:cite:hmt:pers.pers604">Ξάνθέ</persName> τε καὶ <persName n="urn:cite:hmt:pers.pers1050">Βαλίε</persName>. τηλεκλυτὰ τέκνα <persName n="urn:cite:hmt:pers.pers1045">Ποδάργης</persName>.</l>
+        <l n="400"><persName n="urn:cite:hmt:pers.pers604">Ξάνθέ</persName> τε καὶ <persName n="urn:cite:hmt:pers.pers1044">Βαλίε</persName>. τηλεκλυτὰ τέκνα <persName n="urn:cite:hmt:pers.pers1045">Ποδάργης</persName>.</l>
         <l n="401">ἄλλως δὴ φράζεσθε σαωσέμεν ἡνιοχῆα</l>
         <l n="402">ὰψ <rs type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναῶν</rs> ἐς όμιλον. ἐπεί χ' ἑῶμεν πολέμοιο·</l>
         <l n="403">μηδ' ὡς <persName n="urn:cite:hmt:pers.pers158">Πάτροκλον</persName> λίπετ' αὐτοῦ <choice><orig><sic>τεθνειῶτα</sic></orig><reg>τεθνηῶτα</reg></choice>·</l>
