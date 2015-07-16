@@ -24,7 +24,7 @@
                     <!-- 251v -->
                     <div n="2015office3_1" type="scholion">
                         <div type="lemma">
-                            <p>εὗρε δὲ <persName n="urn:cite:hmt:pers.pers158">πατρόκλῳ</persName>
+                            <p>εὗρε δὲ <persName n="urn:cite:hmt:pers.pers158">Πατρόκλῳ</persName>
                                 <choice>
                                     <abbr>πεκειμε</abbr>
                                     <expan>περικείμενον</expan>
@@ -1081,7 +1081,7 @@
                                         <abbr>Ἀρίσταρχ</abbr>
                                         <expan>Ἀρίσταρχος</expan>
                                     </choice></persName>
-                                <q>τῷ δ' εὗτε</q> καὶ κατα συστολὴν δεχόμενος ἀντι τοῦ <q>ηῦτε</q>
+                                <q>τῷ δ' εὗτε</q> καὶ κατα συστολὴν δεχόμενος ἀντι τοῦ <q><sic>ηῦτε</sic></q>
                                 ὡς επι τοῦ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.10</ref>
                                     <q>εὐτ ορεος κορυφῇσι</q>
@@ -1107,7 +1107,7 @@
                                 <persName n="urn:cite:hmt:pers.pers16"><choice>
                                         <abbr>Ἀρίσταρχ</abbr>
                                         <expan>Ἀρίσταρχος</expan>
-                                    </choice></persName> συνέσταλται δὲ τὸ <q>ηῦτε</q> καὶ δια τοῦ
+                                    </choice></persName> συνέσταλται δὲ τὸ <q><sic>ηῦτε</sic></q> καὶ δια τοῦ
                                     <rs type="waw">ε</rs> εἴρηται· παρα δε <persName
                                     n="urn:cite:hmt:pers.pers21"><choice>
                                         <abbr>Ἀριστοφά</abbr>
