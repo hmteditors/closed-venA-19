@@ -513,21 +513,21 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="383">χρύσεαι. ἃς <persName n="urn:cite:hmt:pers.pers192">Ἥφαιστος</persName> ΐει λόφον ἀμφὶ θαμειάς·</l>
         <l n="384">πειρήθη δ', ἕο αὐτοῦ ἐν έντεσι δῖος <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεὺς</persName>·</l>
         <l n="385">εἴ οἱ ἐφαρμόσσειε. καὶ ἐντρέχοι ἀγλαὰ γυῖα·</l>
-        <l n="386">τῷ δ' ῆυτε πτερὰ γίγνετ'. ἄειρε δὲ ποιμένα λαῶν·</l>
+        <l n="386">τῷ δ' ηῦτε πτερὰ γίγνετ'. ἄειρε δὲ ποιμένα λαῶν·</l>
         <l n="387">ἐκ δ' ἄρα σύριγγος πατρώϊον ἐσπάσατ' ἔγχος</l>
         <l n="388">βριθὺ, μέγα. στιβαρόν· τὸ μὲν οὐ δύνατ' ἄλλος <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs></l>
         <l n="389">πάλλειν· ἀλλά μιν οἶος ἐπίστατο πῆλαι <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεὺς</persName></l>
         <l n="390">Πηλιάδα μελίην. τὴν πατρὶ φίλῳ τάμε <persName n="urn:cite:hmt:pers.pers115">Χείρων</persName></l>
         <l n="391"><placeName n="urn:cite:hmt:place.place57">Πηλίου</placeName> <choice><orig>ἐκ</orig><reg>ἐν</reg></choice> <choice><orig>κορυφῆς</orig><reg>κορυφῇς</reg></choice>. φόνον ἔμμεναι ἡρώεσσιν·</l>
         <l n="392">ἵ̈ππους δ' <persName n="urn:cite:hmt:pers.pers217">Αὐτομέδων</persName> τε καὶ <persName n="urn:cite:hmt:pers.pers1049">Ἄλκιμος</persName> ἀμφιέποντες</l>
-        <l n="393">ζεύγνυον· ἀμφὶ δὲ καλὰ λέπαδν' ἕσαν. ἐν δὲ χαλινου̏ ς </l>
+        <l n="393">ζεύγνυον· ἀμφὶ δὲ καλὰ λέπαδν' ἕσαν. ἐν δὲ <w><sic>χαλινου̏ ς</sic></w> </l>
         <l n="394">γαμφηλῇς ἔβαλον· κατὰ δ' ἡνία τεῖναν ὀπίσσω</l>
         <l n="395">κολλητὸν ποτὶ δίφρον· ὁ δὲ μάστιγα φαεινὴν</l>
         <l n="396">χειρὶ λαβὼν ἀραρυῖαν, ἐφ' ἵπποιϊν ἀνόρουσεν·</l>
         <l n="397"><persName n="urn:cite:hmt:pers.pers217">Αὐτομέδων</persName>· ὄπιθεν δὲ κορυσσάμενος βῆ <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεὺς</persName>.</l>
         <l n="398">τεύχεσι παμφαίνων, ὥς τ' ἠλέκτωρ <persName n="urn:cite:hmt:pers.pers146">Ὑπερίων</persName>·</l>
         <l n="399">σμερδαλέον δ' ἵπποισιν ἐκέκλετο πατρὸς ἑοῖο·</l>
-        <l n="400"><persName n="urn:cite:hmt:pers.pers604">Ξάνθέ</persName> τε καὶ <persName n="urn:cite:hmt:pers.pers1050">Βαλίε</persName>. τηλεκλυτὰ τέκνα <persName n="urn:cite:hmt:pers.pers1045">Ποδάργης</persName>.</l>
+        <l n="400"><persName n="urn:cite:hmt:pers.pers604">Ξάνθέ</persName> τε καὶ <persName n="urn:cite:hmt:pers.pers1044">Βαλίε</persName>. τηλεκλυτὰ τέκνα <persName n="urn:cite:hmt:pers.pers1045">Ποδάργης</persName>.</l>
         <l n="401">ἄλλως δὴ φράζεσθε σαωσέμεν ἡνιοχῆα</l>
         <l n="402">ὰψ <rs type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναῶν</rs> ἐς όμιλον. ἐπεί χ' ἑῶμεν πολέμοιο·</l>
         <l n="403">μηδ' ὡς <persName n="urn:cite:hmt:pers.pers158">Πάτροκλον</persName> λίπετ' αὐτοῦ <choice><orig><sic>τεθνειῶτα</sic></orig><reg>τεθνηῶτα</reg></choice>·</l>

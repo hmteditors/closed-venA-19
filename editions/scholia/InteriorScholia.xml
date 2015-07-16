@@ -270,7 +270,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.388</p>
             </div>
             <div type="comment">
-              <p>οὐδὲ ἐν ταῖς ἄλλαις ησαν οἱ αθετουμενοι ⁑</p>
+              <p><q>οὐδὲ</q> ἐν ταῖς ἄλλαις ησαν οἱ αθετούμενοι ⁑</p>
             </div>
           </div>
             <div n="hc_3" type="scholion">

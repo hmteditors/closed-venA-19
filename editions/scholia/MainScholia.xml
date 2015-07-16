@@ -1040,7 +1040,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.385</p>
                         </div>
                         <div type="comment">
-                            <p>τὴν <q>οῖ</q> ἀντωνυμίαν περισπᾷ ὁ <persName
+                            <p>τὴν <rs type="waw">οι</rs> ἀντωνυμίαν περισπᾷ ὁ <persName
                                     n="urn:cite:hmt:pers.pers485">Ἀσκαλωνίτης</persName> καὶ φησὶ
                                 κεῖσθαι δοτικὴν ἀντι γενικῆς. οἱ δὲ βαρυτονοῦσιν· ἔστι μὲν οὖν καὶ
                                 ἐγκλϊτικὴν εὑρέσθαι τὴν <q>οἱ</q> ἀντι γενικῆς κειμένην ὥσπερ ἐπι
@@ -1055,21 +1055,21 @@
                                     <expan>αἰτιατικῆς</expan>
                                 </choice> ὥσπερ ἐπι τοῦ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012:tlg002:17.330</ref>
-                                    <q>νευσ ἐπι οἱ καλέσας.</q>
+                                    <q>νευς ἐπι οἱ καλέσας.</q>
                                 </cit> καὶ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.418</ref>
                                     <q>προτί οἱ δὲ λαβῶν ἔντερα</q>
                                 </cit>· οὐ μέντοι ποτὲ ἐν τῆ καλουμένῃ ἐπιταγματικῇ συντάξει ἄλογον
                                 γὰρ τὸ τοιοῦτον ὥστε ἐπιφέρεσθαι τὴν <q>αὐτοῦ</q> γενικὴν καὶ τὴν
-                                    <q>οῖ</q> προκεῖσθαι δοτικὴν ὑπάρχουσαν ὅπερ οὐχ ὑγιές· ἀεὶ γὰρ
-                                ταῖς πρωτοτύποις ὁμοιοπτῶτος συντάσσεται ἡ αὐτοῦ ἀντωνυμία· πιστέον
+                                    <rs type="waw">οι</rs> προκεῖσθαι δοτικὴν ὑπάρχουσαν ὅπερ οὐχ ὑγιές· ἀεὶ γὰρ
+                                ταῖς πρωτοτύποις <sic>ὁμοιοπτῶτος</sic> συντάσσεται ἡ αὐτοῦ ἀντωνυμία· πιστέον
                                 οὖν <persName n="urn:cite:hmt:pers.pers16">Ἀριστάρχῳ</persName>
                                 γράφοντι πειρήθη δ' <q>ἕο αυτοῦ</q> ⁑</p>
                         </div>
                     </div>
                     <div n="hc_12" type="scholion">
                         <div type="lemma">
-                            <p>τῷ δ' εῦτε πτερὰ</p>
+                            <p>τῷ δ' <sic>εὖτε</sic>, πτερὰ</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.386</p>
@@ -1100,10 +1100,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.386</p>
                         </div>
                         <div type="comment">
-                            <p>οὕτως <q><choice>
-                                        <sic>εὑτε</sic>
-                                        <corr>εὐτε</corr>
-                                    </choice></q>
+                            <p>οὕτως <q>εὗτε</q>
                                 <persName n="urn:cite:hmt:pers.pers16"><choice>
                                         <abbr>Ἀρίσταρχ</abbr>
                                         <expan>Ἀρίσταρχος</expan>
@@ -1142,12 +1139,12 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.398</p>
                         </div>
                         <div type="comment">
-                            <p>ὁ εἰς λέκτρον μη <unclear>ερ</unclear>χόμενος ἢ παρα τὸ μὴ κοιμᾶσθαι
+                            <p>ὁ εἰς λέκτρον μη <w><unclear>ερ</unclear>χόμενος</w> ἢ παρα τὸ μὴ κοιμᾶσθαι
                                 εἰλούμενον διὸ ἵππους αὐτῷ οὐχ ὑποζεύγνυσι· τὸν δὲ <choice>
                                     <abbr>ουνον</abbr>
                                     <expan>οὐρανὸν</expan>
-                                </choice> ὄχημα αὐτοῦ φησιν. ἢ μάλλον ὁ μὴ κοιμίζων· τὰ γὰρ εἰς <rs
-                                    type="waw">τωρ</rs> κατ ενεργείαν τάσσει ὡς τὸ <q>σημάντωρ</q>
+                                </choice> ὄχημα αὐτοῦ φησιν. ἢ <sic>μάλλον</sic> ὁ μὴ κοιμίζων· τὰ γὰρ εἰς <rs
+                                    type="waw">τωρ</rs> κατ ενέργειαν τάσσει ὡς τὸ <q>σημάντωρ</q>
                                 <q>κοσμήτωρ</q>·<q>λέγω</q> δὲ τὸ κοιμίζω <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:24.635</ref>
                                     <q>λέξον δή με τάχιστα</q>
@@ -1157,17 +1154,17 @@
                     <div n="hc_16" type="scholion">
                         <div type="lemma">
                             <p><persName n="urn:cite:hmt:pers.pers604">Ξάνθε</persName> τε καὶ
-                                Βαλίε.</p>
+                                <persName n="urn:cite:hmt:pers.pers1044">Βαλίε</persName>.</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.400</p>
                         </div>
                         <div type="comment">
-                            <p>σημειοῦνται τινὲς ὅτι ἐντεῦθεν ἡ διασκευὴ τοῦ τεθρίππου πεποίηται·<cit>
+                            <p>σημειοῦνται τινὲς ὅτι ἐντεῦθεν ἡ διασκευὴ τοῦ τεθρίππου πεποίηται· <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.185</ref>
                                     <q><persName n="urn:cite:hmt:pers.pers604">Ξανθέ</persName> τε
-                                        καὶ σὺ Πόδαργε</q>
-                                </cit>“ ⁑</p>
+                                        καὶ σὺ <persName n="urn:cite:hmt:pers.pers1045">Πόδαργε</persName></q>
+                                </cit> ⁑</p>
                         </div>
                     </div>
                     <!-- 259v -->
