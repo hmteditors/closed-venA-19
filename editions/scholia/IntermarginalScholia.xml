@@ -106,7 +106,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p>παρα <persName n="urn:cite:hmt:pers.pers21">Αριστοφάνους</persName>
-                                <q>ἀλαλκέμεν</q>: </p>
+                                <q>ἀλαλκέμεν</q>⁚ </p>
                         </div>
                     </div>
                     <div n="2015office4_3" type="scholion">
@@ -120,7 +120,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ἐν ἄλλῳ <q>ποδαρκης δῖος <persName n="urn:cite:hmt:pers.pers1"><choice>
                                             <abbr>Αχι</abbr>
                                             <expan>Άχιλλεύς</expan>
-                                        </choice></persName></q>:</p>
+                            </choice></persName></q>⁚</p>
                         </div>
                     </div>
                     <!-- 252v -->

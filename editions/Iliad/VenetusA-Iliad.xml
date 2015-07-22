@@ -137,7 +137,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="78">ὦ φίλοι, ἥρωες <rs type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναοὶ</rs>.
           θεράποντες <persName n="urn:cite:hmt:pers.pers83">Ἄρηος</persName>.</l>
         <l n="79">ἑσταότος μὲν καλὸν ἀκούειν. οὐδὲ ἔοικεν</l>
-        <l n="80">ὐββάλλειν· χαλεπὸν γὰρ. ἐπιστάμενόν περ ἐόντα·</l>
+        <l n="80"><sic>ὐββάλλειν</sic>· χαλεπὸν γὰρ. ἐπιστάμενόν περ ἐόντα·</l>
         <l n="81">ἀνδρων δ' ἐν πολλῷ ὁμάδῳ. πῶς κέν τις ἀκοῦσαι.</l>
         <l n="82">ἢ εἴποι· βλάβεται δὲ. λιγύς περ ἐὼν ἀγορητής·</l>
         <l n="83"><persName n="urn:cite:hmt:pers.pers1"> Πηλείδῃ </persName> μὲν ἐγὼ ἐνδείξομαι·
@@ -161,7 +161,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="94">βλάπτουσ' ἀνθρώπους. κατὰ δ' οὖν ἕτερόν γ' ἐπέδησε·</l>
         <l n="95">καὶ γὰρ δή νύ̆ ποτε <persName n="urn:cite:hmt:pers.pers8">Ζῆν'</persName> ἄσατο.
           τόν περ ἄριστον.</l>
-        <l n="96">ἀνδρῶν ἠδὲ θεῶν φὰσ' ἔμμεναι: ἀλλ' ἄρα καὶ τὸν</l>
+        <l n="96">ἀνδρῶν ἠδὲ θεῶν φὰσ' ἔμμεναι⁚ ἀλλ' ἄρα καὶ τὸν</l>
         <l n="97"><persName n="urn:cite:hmt:pers.pers116">Ἥρη</persName> θῆλυς ἐοῦσα δολοφροσύνῃς
           ἀπάτησεν,</l>
         <l n="98">ἤματι τῷ, ὅτ' ἔμελλε βίην <persName n="urn:cite:hmt:pers.pers71"
@@ -243,7 +243,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="146"><persName n="urn:cite:hmt:pers.pers22">Ἀτρείδη</persName> κυδιστε ἄναξ ἀνδρῶν
             <persName n="urn:cite:hmt:pers.pers22">Ἀγάμεμνον</persName>·</l>
         <l n="147">δῶρα μὲν αἴ κ' ἐθέλησθα παρασχέμεν ὡς ἐπιεικές</l>
-        <l n="148">ἤ τ' ἐχέμεν παρὰ σοί: νῦν δὲ μνησώμεθα χάρμης</l>
+        <l n="148">ἤ τ' ἐχέμεν παρὰ σοί⁚ νῦν δὲ μνησώμεθα χάρμης</l>
         <l n="149">αἶψα μάλ' οὐ γὰρ χρὴ κλοτοπεύειν ἐνθάδ' ἐόντας</l>
         <l n="150">οὐδὲ διατρίβειν· ἔτι γὰρ μέγα ἔργον ἄρεκτον.</l>
         <l n="151">ὥς κέ τις αὖτ' <persName n="urn:cite:hmt:pers.pers1">Ἀχιλῆα</persName> μετὰ

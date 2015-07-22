@@ -147,7 +147,7 @@
                                 μονογενὲς ὅν προς μονογενὲς ὀξυνόμενον τὸ <q>ουλή</q>· προσέθηκα δὲ
                                     <q>εἰ μὴ ἔχοι ἔννοιαν συνθέσεως</q> δια τὸ <q>δείλη</q>
                                 βαρυνόμενον· ἐτυμολογεῖται γὰρ παρα <q>τὸ ἐνδεῖν τῇ έλῃ</q>
-                                <q>δεείλη</q>· ἡ διπλη δέ ὅτι ἐν τοῖς <persName
+                                <q><sic>δεείλη</sic></q>· ἡ διπλη δέ ὅτι ἐν τοῖς <persName
                                     n="urn:cite:hmt:pers.pers15">Ζηνοδοτου</persName>
                                 <q>ἐγγείνωνται</q> δια τοῦ <rs type="waw">ϊ</rs> γέγραπται δεῖ δὲ
                                 σὺν τῷ <rs type="waw">ε</rs> · ἔστι γὰρ
@@ -169,7 +169,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.27</p>
                         </div>
                         <div type="comment">
-                            <p> τὸ εκ δ' αιῶν πέφαται οὔτως παρέργως κεῖται· ἀλλ ὅτι τῆς ψυχῆς
+                            <p> τὸ εκ δ' αιῶν πέφαται οὕτως παρέργως κεῖται· ἀλλ ὅτι τῆς ψυχῆς
                                 ἀπολιπούσης τὸ σῶμα εὐχερῶς αἱ μυῖαι λυμαίνονται τοῖς νεκροις
                                 σώμασι.</p>
                         </div>
@@ -388,13 +388,13 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.80</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι τὸ <q>ὑβάλλειν</q> ἐστὶν <q><sic><choice>
+                            <p>ὅτι τὸ <q><sic>ὑβάλλειν</sic></q> ἐστὶν <q><sic><choice>
                                             <abbr>υπβάλλειν</abbr>
                                             <expan>ὑποβάλλειν</expan>
                                         </choice></sic></q>
                                 <q>χαλεπόν ἐστι ἑτέρῳ <sic>ὑποβάλλειν</sic> τὸν λόγον ὃν αὐτὸς τίς
                                     εἰπεῖν βούλεται καν ὅτι μάλιστα ἐπιτιμου τίς ἦν</q> τὸ δὲ
-                                    <q>ὑβάλλειν</q> ψιλωτεον ἔστι γὰρ <rs type="ethnic"
+                                    <q><sic>ὑβάλλειν</sic></q> ψιλωτεον ἔστι γὰρ <rs type="ethnic"
                                     n="urn:cite:hmt:place.place77">Αιολικηόν</rs> ὡς φησιν <persName
                                     n="urn:cite:hmt:pers.pers493">Ηρῳδιανὸς</persName> ἐν τῷ <rs
                                     type="waw">κ</rs> τῆς <title>καθ όλου</title> ⁑</p>
@@ -466,7 +466,7 @@
                     </div>
                     <div n="2015office9_8" type="scholion">
                         <div type="lemma">
-                            <p>ἀλλα τί κεν ῥέξαιμι: </p>
+                            <p>ἀλλα τί κεν ῥέξαιμι⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.90-91</p>
@@ -566,7 +566,7 @@
                     <div n="2015office9_11" type="scholion">
                         <div type="lemma">
                             <p>καὶ γὰρ δήν ὕπο τε <persName n="urn:cite:hmt:pers.pers8"
-                                    >Ζεύς</persName> ασατο:</p>
+                                >Ζεύς</persName> ασατο⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.95</p>
@@ -585,7 +585,7 @@
                     </div>
                     <div n="2015office9_12" type="scholion">
                         <div type="lemma">
-                            <p>ἀνδρῶν ἠδὲ θεῶν:</p>
+                            <p>ἀνδρῶν ἠδὲ θεῶν⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.96</p>
@@ -624,7 +624,7 @@
                     <div n="2015office9_14" type="scholion">
                         <div type="lemma">
                             <p><persName n="urn:cite:hmt:pers.pers1">Πηλείδῃ</persName> μὲν
-                                    <sic>ἐγῶν</sic> ἐν δείξομαι: </p>
+                                <sic>ἐγῶν</sic> ἐν δείξομαι⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.83</p>

@@ -99,7 +99,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <persName n="urn:cite:hmt:pers.pers16"><choice>
                     <abbr>Ἀρίσταρχ</abbr>
                     <expan>Ἀρίσταρχος</expan>
-                  </choice></persName> ἄλλοι δὲ <q>ἀκουέμεν</q>:</p>
+                </choice></persName> ἄλλοι δὲ <q>ἀκουέμεν</q>⁚</p>
             </div>
           </div>
           <div n="2015office9_2" type="scholion">
@@ -114,7 +114,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     <abbr>Αρισταρχ</abbr>
                     <expan>Ἀρίσταρχος</expan>
                   </choice></persName>
-                <q>ἐπισταμένῳ περ εόντι</q>:</p>
+                <q>ἐπισταμένῳ περ εόντι</q>⁚</p>
             </div>
           </div>
           <div n="2015office9_3" type="scholion">
@@ -128,7 +128,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>κρίνατε <choice>
                   <abbr>δοκιμάσατ</abbr>
                   <expan>δοκιμάσατε</expan>
-                </choice>:</p>
+              </choice>⁚</p>
             </div>
           </div>
           <div n="2015office9_4" type="scholion">
