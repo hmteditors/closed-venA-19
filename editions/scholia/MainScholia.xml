@@ -100,7 +100,7 @@
                     </div>
                     <div n="2015office3_5" type="scholion">
                         <div type="lemma">
-                            <p>μυρμιδόνας δ' ἄρα</p>
+                            <p>Μυρμιδόνας δ' ἄρα</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.14</p>
@@ -124,7 +124,7 @@
                         <div type="comment">
                             <p>ὅτι ἐλέγχεται <persName n="urn:cite:hmt:pers.pers15"
                                     >Ζηνόδοτος</persName> γράφων <q>ἕλεν φόβος</q> τὸ γὰρ
-                                    <q>τρέσαι</q> ἀπo τοῦ <q>τρόμου</q> ⁑</p>
+                                    <q>τρέσαι</q> ἀπο τοῦ <q>τρόμου</q> ⁑</p>
                         </div>
                     </div>
                     <!-- 252r -->
@@ -648,7 +648,7 @@
                     <!-- 253v -->
                     <div n="2015office10_1" type="scholion">
                         <div type="lemma">
-                            <p>‡ τῶν ἀνδρῶν γενεῆς:</p>
+                            <p>‡ τῶν ἀνδρῶν γενεῆς⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.105</p>
@@ -734,7 +734,7 @@
                     </div>
                     <div n="2015office10_5" type="scholion">
                         <div type="lemma">
-                            <p>ἰφθίμην ἅλοχον:</p>
+                            <p>ἰφθίμην ἅλοχον⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.116</p>
@@ -778,7 +778,7 @@
                                     <persName n="urn:cite:hmt:pers.pers906">Ἀλκμήνῃ</persName> τῇ
                                     <persName n="urn:cite:hmt:pers.pers923">Ἠλεκτρυόνος</persName>
                                 ὃν δὲ τρόπον εἴρηται ἐν τῇ <title><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:14</ref>
-                                    ξ</title> ἔγκυον
+                                    Ξ</title> ἔγκυον
                                 κατέστησε· μελλούσης δὲ τίκτειν ώμοσεν ἐν θεοῖς τὸν ἐκείνῃ τῇ ἡμέρα
                                 γεννηθέντα τῶν ἐξ αυτοῦ βασιλεύσειν· <persName
                                     n="urn:cite:hmt:pers.pers116">Ἥρα</persName> δὲ ζηλοτύπως
@@ -806,7 +806,7 @@
                     </div>
                     <div n="2015office10_8" type="scholion">
                         <div type="lemma">
-                            <p>μείς:</p>
+                            <p>μείς⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.117</p>
@@ -825,7 +825,7 @@
                     </div>
                     <div n="2015office10_9" type="scholion">
                         <div type="lemma">
-                            <p>αὐτὴ δ' ἀγγελέουσα:</p>
+                            <p>αὐτὴ δ' ἀγγελέουσα⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.120</p>
@@ -842,7 +842,7 @@
                         <div type="lemma">
                             <p><persName n="urn:cite:hmt:pers.pers391">Εὐρυσθευς</persName>
                                 <persName n="urn:cite:hmt:pers.pers1043">Σθενέλοιο</persName>
-                                πάϊς:</p>
+                                πάϊς⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.123-19.124</p>
@@ -1170,7 +1170,7 @@
                     <!-- 259v -->
                     <div n="hc_17" type="scholion">
                         <div type="lemma">
-                            <p>‡ ὰψ <rs type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναῶν</rs>:</p>
+                            <p>‡ ὰψ <rs type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναῶν</rs>⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.402</p>
@@ -1182,7 +1182,7 @@
                     </div>
                     <div n="hc_18" type="scholion">
                         <div type="lemma">
-                            <p>αὐδήεντα δ' έθηκε:</p>
+                            <p>αὐδήεντα δ' έθηκε⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.407</p>
@@ -1202,7 +1202,7 @@
                     </div>
                     <div n="hc_19" type="scholion">
                         <div type="lemma">
-                            <p>ἤμυσε καρήατι:</p>
+                            <p>ἤμυσε καρήατι⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.405</p>
@@ -1216,7 +1216,7 @@
                     </div>
                     <div n="hc_20" type="scholion">
                         <div type="lemma">
-                            <p>ἥνπερ ἐλαφροτάτον·</p>
+                            <p>ἥνπερ ἐλαφρότατον·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.416</p>
