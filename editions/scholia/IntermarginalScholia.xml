@@ -146,7 +146,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ουτως <persName n="urn:cite:hmt:pers.pers16"><choice>
                                         <abbr>αρισταρχ</abbr>
                                         <expan>Ἀριστάρχος</expan>
-                                    </choice></persName> δια τοῦ <rs type="waw">ν</rs> αντίον</p>
+                                    </choice></persName> δια τοῦ <rs type="waw">ν</rs> <q>αντίον</q></p>
                         </div>
                     </div>
                     <div n="2015office5_3" type="scholion">
