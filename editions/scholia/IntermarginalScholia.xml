@@ -318,7 +318,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                     </div>
                     <!-- 259v -->
-                    <div n="hc_6" type="scholion">
+                    <div n="hc_7" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -329,7 +329,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ἐν <choice><abbr>αλλ</abbr><expan>ἄλλῳ</expan></choice>· <q>ὰψ λαῶν</q></p>
                         </div>
                     </div>
-                    <div n="hc_7" type="scholion">
+                    <div n="hc_8" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
