@@ -192,7 +192,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 </choice> τὸ <q>εὐχόμενος</q> σαφῶς <choice>
                   <abbr>εστ</abbr>
                   <expan>ἐστι</expan>
-                </choice> <sic>αὐχώμενος</sic> παρὰ τὸ <q>αὐχεῖν</q> ⁑</p>
+                </choice> <q><sic>αὐχώμενος</sic></q> παρὰ τὸ <q>αὐχεῖν</q> ⁑</p>
             </div>
           </div>
           <!-- 253v -->
