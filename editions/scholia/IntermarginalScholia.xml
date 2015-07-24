@@ -288,7 +288,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.376<abbr></abbr></p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.376</p>
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers16"><choice><abbr>Αρισταρχ</abbr><expan>Ἀρίσταρχος</expan></choice> </persName><q>τό τε καίεται</q> ⁑</p>
