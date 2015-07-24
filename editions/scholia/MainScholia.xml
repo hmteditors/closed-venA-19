@@ -295,7 +295,7 @@
                                     <abbr>ἀνδρω</abbr>
                                     <expan>ἀνδρῶν</expan>
                                 </choice><persName n="urn:cite:hmt.pers.pers22"><choice>
-                                        <abbr>Αγαμε</abbr>
+                                        <abbr>αγαμε</abbr>
                                         <expan>Ἀγαμέμνων</expan>
                                     </choice></persName>· <choice>
                                     <abbr>ἀυτοθ</abbr>
@@ -303,7 +303,7 @@
                                 </choice> ἐξ έδρης, ὅ δ' ἐν μέσσοισι ἀναστάς.</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.76-19.77</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.76</p>
                         </div>
                         <div type="comment">
                             <p>
@@ -311,7 +311,7 @@
                                     <abbr>ουτ</abbr>
                                     <expan>οὕτω</expan>
                                 </choice> καὶ παρα <persName n="urn:cite:hmt.pers.pers21"><choice>
-                                    <abbr>Άριστοφα</abbr>
+                                        <abbr>ἀριστοφα</abbr>
                                         <expan>Άριστοφάνει</expan>
                                     </choice></persName> ἐν δε τῇ <title>Μασσαλιωτικῇ</title> καὶ
                                     <title>Χίᾳ</title>
@@ -319,11 +319,11 @@
                                         <abbr>ἀνισταμε</abbr>
                                         <expan>ἀνιστάμενος</expan>
                                     </choice> μετέφη κρείων <persName n="urn:cite:hmt.pers.pers22"><choice>
-                                            <abbr>Αγαμε</abbr>
+                                            <abbr>αγαμε</abbr>
                                             <expan>Ἀγαμέμνων</expan>
                                         </choice></persName>· μῆνιν ἀναστενάχων καὶ ὑφ έλκεος ἄλγεα
                                     πάσχων</q>. οὕτως ὁ <persName n="urn:cite:hmt.pers.pers175"
-                                    >Δίδυμος</persName>⁑</p>
+                                    >δίδυμοσ</persName>⁑</p>
                         </div>
                     </div>
                     <div n="2015office9_2" type="scholion">
@@ -342,10 +342,10 @@
                                         <abbr>ἀνιστα</abbr>
                                         <expan>ἀνιστάμενος</expan>
                                     </choice> μετεφη κρείων <persName n="urn:cite:hmt.pers.pers22"><choice>
-                                            <abbr>Αγαμε</abbr>
+                                            <abbr>αγαμε</abbr>
                                             <expan>Ἀγαμέμνων</expan>
                                         </choice></persName></q>· ὁ δε <persName
-                                    n="urn:cite:hmt.pers.pers22">Αγαμεμνων</persName> οὐκ ορθῶς
+                                    n="urn:cite:hmt.pers.pers22">αγαμεμνων</persName> οὐκ ορθῶς
                                 δημηγορεῖ δια τὴν τοῦ τραύματος ἀλγηδόνα διὸ επιφέρει ὑποτιμώμενος,
                                 καλὸν μεν εστιν ἑστῶτα δημηγορεῖν ὡς δῆλον ὅτι καθήμενος⁑</p>
                         </div>
@@ -355,7 +355,7 @@
                             <p>εσταότος μὲν καλὸν ἀκούειν·</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.77-19.79</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.79</p>
                         </div>
                         <div type="comment">
                             <p>καλῶς ἔχει τοῦ εστῶτος καὶ δημηγοροῦντος ἀκούειν καὶ μὴ ὑποκρούειν
@@ -705,10 +705,10 @@
                         </div>
                         <div type="comment">
                             <p>πρὸς τὰ περὶ τοῦ <placeName n="urn:cite:hmt:place.place45"
-                                    >Ολύμπου</placeName> ἔδει δὲ λίπ' οὐρανὸν <choice>
+                                    >Ολύμπου</placeName> ἔδει δὲ <q>λίπ' οὐρανὸν <choice>
                                     <abbr>ἀστερόεντ</abbr>
                                     <expan>ἀστερόεντα</expan>
-                                </choice>
+                                </choice></q>
                                 <persName n="urn:cite:hmt:pers.pers22">Ἀγαμεμνων</persName> γὰρ ὁ
                                 λέγων ⁑</p>
                         </div>
@@ -812,7 +812,7 @@
                         <div type="comment">
                             <p><sic>μῆν</sic>
                                 <rs type="ethnic" n="urn:cite:hmt:place.place77">Αἰολικῶς</rs> ὥσπερ
-                                δε <sic>ρεῖς</sic>
+                                δε <q><sic>ρεῖς</sic></q>
                                 <sic>ρείνός</sic> καὶ θεῖς θινὸς ουτως καὶ <sic>μεῖς</sic> μηνός
                                         <w>κλ<add place="supralinear">η</add>θήσεται</w>
                                 <choice>
@@ -847,9 +847,9 @@
                         <div type="comment">
                             <p>δύναται καὶ τοῖς ἑξῆς συνάπτεσθαι ἵ̈ν' ᾖ σχῆμα <q><persName
                                         n="urn:cite:hmt:pers.pers391">Εὐρυσθεὺς</persName> σὸν
-                                    γένος</q>· βέλτιον δὲ στίζειν <persName
-                                    n="urn:cite:hmt:pers.pers1043">Περσηϊάδαο</persName> καὶ καθ
-                                εαυτὸ λέγεσθαι τὸ <q>σὸν γένος</q> ἵνα λείπῃ τὸ ἐστιν ⁑</p>
+                                    γένος</q>· βέλτιον δὲ στίζειν <q><persName
+                                    n="urn:cite:hmt:pers.pers1043">Περσηϊάδαο</persName></q> καὶ καθ
+                                εαυτὸ λέγεσθαι τὸ <q>σὸν γένος</q> ἵνα λείπῃ τὸ <q>ἐστιν</q> ⁑</p>
                         </div>
                     </div>
                     <!-- 254r -->
@@ -1078,8 +1078,8 @@
                                         <abbr>Ἀρίσταρχ</abbr>
                                         <expan>Ἀρίσταρχος</expan>
                                     </choice></persName>
-                                <q>τῷ δ' <sic>εὗτε</sic></q> καὶ κατα συστολὴν δεχόμενος ἀντι τοῦ
-                                        <q><sic>ηῦτε</sic></q> ὡς επι τοῦ <cit>
+                                <q>τῷ δ' <sic>εὗτε</sic></q> καὶ κατα συστολὴν δεχόμενος ἀντι τοῦ <q><sic>ηῦτε</sic></q>
+                                ὡς επι τοῦ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.10</ref>
                                     <q>εὐτ ορεος κορυφῇσι</q>
                                 </cit> μετέγραψεν ὕστερον <q>τῷ δ' αὖτε</q>, ἐμφατικώτερον νομίσας
