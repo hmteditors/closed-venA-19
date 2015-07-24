@@ -142,7 +142,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>παρα <persName n="urn:cite:hmt:pers.pers21"><choice>
                     <abbr>Αριστοφα</abbr>
                     <expan>Ἀριστοφάνει</expan>
-                  </choice></persName> καὶ τῇ Χίᾳ <q><sic>νεικίουσιν</sic></q> ⁑</p>
+                  </choice></persName> καὶ τῇ <title>Χίᾳ</title> <q><sic>νεικίουσιν</sic></q> ⁑</p>
             </div>
           </div>
           <div n="2015office9_5" type="scholion">
