@@ -723,12 +723,11 @@
                         <div type="comment">
                             <p>ὅτι τὴν <placeName n="urn:cite:hmt:place.place36"
                                     >Πελοπόννησον</placeName>
-                                <placeName n="urn:cite:hmt:place.place114">Ἄργος
-                                    Ἀχαιϊκὸν</placeName> λέγει τὴν <placeName
+                                <q><placeName n="urn:cite:hmt:place.place114">Ἄργος
+                                    Ἀχαιϊκὸν</placeName></q> λέγει τὴν <placeName
                                     n="urn:cite:hmt:place.place2">Θεσσαλίαν</placeName>
-                                <q>
                                     <placeName n="urn:cite:hmt:place.place114">Ἄργος
-                                        Πελασγικόν</placeName></q> ⁑</p>
+                                        Πελασγικόν</placeName> ⁑</p>
                         </div>
                     </div>
                     <div n="2015office10_5" type="scholion">
