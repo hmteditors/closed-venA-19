@@ -12,7 +12,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <editor>Maike van Haeringen</editor>
         <editor>Janey Capers Newland</editor>
         <editor>Corey Scannell</editor>
-        <editor>Stephanie Neville</editor>
+        <author>Brian Clark</author>
+        <author>Claude Hanley</author>
+        <author>Stephanie Neville</author>
+        <author>Charlie Schufreider</author>
+        <author>Alex Simrell</author>
+        <author>Melody Wauke</author>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
