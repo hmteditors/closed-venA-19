@@ -13,12 +13,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <editor>Janey Capers Newland</editor>
                 <editor>Corey Scannell</editor>
                 <editor>Maike van Haeringen</editor>
-        <editor>Brian Clark</editor>
-        <editor>Claude Hanley</editor>
-        <editor>Stephanie Neville</editor>
-        <editor>Charlie Schufreider</editor>
-        <editor>Alex Simrell</editor>
-        <editor>Melody Wauke</editor>
+                <editor>Brian Clark</editor>
+                <editor>Claude Hanley</editor>
+                <editor>Stephanie Neville</editor>
+                <editor>Charlie Schufreider</editor>
+                <editor>Alex Simrell</editor>
+                <editor>Melody Wauke</editor>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -35,7 +35,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     <!-- 251v -->
                     <div n="2015office3_1" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.5@λιγέως</p>
@@ -46,7 +46,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="2015office3_2" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.17@βλεφάρων</p>
@@ -92,7 +92,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     <!-- 258r -->
                     <div n="hc_1" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.348@στήθεσσ'</p>
@@ -105,7 +105,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     <!-- 259r -->
                     <div n="hc_4" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.393@ἕσαν</p>
@@ -114,7 +114,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>περιέβαλον⁚</p>
                         </div>
                     </div>
-                
+
                     <!-- 259v -->
                 </body>
             </text>

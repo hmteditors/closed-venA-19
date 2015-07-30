@@ -103,7 +103,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <persName n="urn:cite:hmt:pers.pers16"><choice>
                     <abbr>Ἀρίσταρχ</abbr>
                     <expan>Ἀρίσταρχος</expan>
-                </choice></persName> ἄλλοι δὲ <q>ἀκουέμεν</q>⁚</p>
+                  </choice></persName> ἄλλοι δὲ <q>ἀκουέμεν</q>⁚</p>
             </div>
           </div>
           <div n="2015office9_2" type="scholion">
@@ -132,7 +132,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>κρίνατε <choice>
                   <abbr>δοκιμάσατ</abbr>
                   <expan>δοκιμάσατε</expan>
-              </choice>⁚</p>
+                </choice>⁚</p>
             </div>
           </div>
           <div n="2015office9_4" type="scholion">
@@ -146,7 +146,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>παρα <persName n="urn:cite:hmt:pers.pers21"><choice>
                     <abbr>Αριστοφα</abbr>
                     <expan>Ἀριστοφάνει</expan>
-                  </choice></persName> καὶ τῇ <title>Χίᾳ</title> <q><sic>νεικίουσιν</sic></q> ⁑</p>
+                  </choice></persName> καὶ τῇ <title>Χίᾳ</title>
+                <q><sic>νεικίουσιν</sic></q> ⁑</p>
             </div>
           </div>
           <div n="2015office9_5" type="scholion">
@@ -196,7 +197,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 </choice> τὸ <q>εὐχόμενος</q> σαφῶς <choice>
                   <abbr>εστ</abbr>
                   <expan>ἐστι</expan>
-                </choice> <q><sic>αὐχώμενος</sic></q> παρὰ τὸ <q>αὐχεῖν</q> ⁑</p>
+                </choice>
+                <q><sic>αὐχώμενος</sic></q> παρὰ τὸ <q>αὐχεῖν</q> ⁑</p>
             </div>
           </div>
           <!-- 253v -->
@@ -219,7 +221,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.111</p>
             </div>
             <div type="comment">
-              <p>τούτων τῶν ἀνδρῶν οἳ ἐκ τῆς σῆς <w>σπ<unclear>ο</unclear>ρᾶς</w> <w>τ<unclear>ὸ</unclear></w> αῖμα ἔχουσιν ⁑</p>
+              <p>τούτων τῶν ἀνδρῶν οἳ ἐκ τῆς σῆς <w>σπ<unclear>ο</unclear>ρᾶς</w>
+                <w>τ<unclear>ὸ</unclear></w> αῖμα ἔχουσιν ⁑</p>
             </div>
           </div>
           <div n="2015office10_3" type="scholion">
@@ -230,7 +233,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.117</p>
             </div>
             <div type="comment">
-              <p>ἐν <choice><abbr>τ</abbr><expan>τῃ</expan></choice> <title>Χίᾳ</title> <q>μής</q> ⁑</p>
+              <p>ἐν <choice>
+                  <abbr>τ</abbr>
+                  <expan>τῃ</expan>
+                </choice>
+                <title>Χίᾳ</title>
+                <q>μής</q> ⁑</p>
             </div>
           </div>
           <div n="2015office10_4" type="scholion">
@@ -263,10 +271,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.386</p>
             </div>
             <div type="comment">
-              <p><persName n="urn:cite:hmt:pers.pers16"><choice><abbr>Αρισταρχ</abbr><expan>Ἀρίσταρχος</expan></choice></persName> <q>εῦτε</q></p>
+              <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                    <abbr>Αρισταρχ</abbr>
+                    <expan>Ἀρίσταρχος</expan>
+                  </choice></persName>
+                <q>εῦτε</q></p>
             </div>
           </div>
-            <div n="hc_2" type="scholion">
+          <div n="hc_2" type="scholion">
             <div type="lemma">
               <p/>
             </div>
@@ -277,7 +289,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>οὐδὲ ἐν ταῖς ἄλλαις ησαν οἱ αθετούμενοι ⁑</p>
             </div>
           </div>
-            <div n="hc_3" type="scholion">
+          <div n="hc_3" type="scholion">
             <div type="lemma">
               <p/>
             </div>
@@ -288,7 +300,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>καὶ <q>πόρε <persName n="urn:cite:hmt:pers.pers115">Xείρων</persName></q> ⁑</p>
             </div>
           </div>
-            <div n="hc_4" type="scholion">
+          <div n="hc_4" type="scholion">
             <div type="lemma">
               <p/>
             </div>
@@ -296,10 +308,16 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.391</p>
             </div>
             <div type="comment">
-              <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> πληθυντικῶς αι <persName n="urn:cite:hmt:pers.pers16"><choice><abbr>Αρισταρχ</abbr><expan>Ἀριστάρχου</expan></choice></persName> ⁑</p>
+              <p><choice>
+                  <abbr>ουτ</abbr>
+                  <expan>οὕτως</expan>
+                </choice> πληθυντικῶς αι <persName n="urn:cite:hmt:pers.pers16"><choice>
+                    <abbr>Αρισταρχ</abbr>
+                    <expan>Ἀριστάρχου</expan>
+                  </choice></persName> ⁑</p>
             </div>
           </div>
-            <div n="hc_5" type="scholion">
+          <div n="hc_5" type="scholion">
             <div type="lemma">
               <p/>
             </div>
@@ -307,7 +325,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.393</p>
             </div>
             <div type="comment">
-              <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> δια τοῦ <rs type="waw">ο</rs> <q>ζεύγνυον</q> ⁑</p>
+              <p><choice>
+                  <abbr>ουτ</abbr>
+                  <expan>οὕτως</expan>
+                </choice> δια τοῦ <rs type="waw">ο</rs>
+                <q>ζεύγνυον</q> ⁑</p>
             </div>
           </div>
           <!-- 259v -->
